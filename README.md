@@ -6,6 +6,18 @@ The human confusion dataset can be downloaded from the link below.
 
 https://github.com/kailasdayanandan/dual_thinking/releases/download/v0.0.1-dataset-release/human-confusion-dataset.0.1.zip
 
+To cite this project, please use the text below:
+```
+@misc{dayanandan2024dual,
+    title={Dual Thinking and Perceptual Analysis of Deep Learning Models using Human Adversarial Examples},
+    author={Kailas Dayanandan and Anand Sinha and Brejesh Lall},
+    year={2024},
+    eprint={2406.xxxxx},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
+
 ### Running code
 
 Create a folder named data and unzip the dataset from link above. Move folder images, masks, and other csv files to the data folder.
