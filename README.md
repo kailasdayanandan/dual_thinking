@@ -18,7 +18,7 @@ To cite this project, please use the text below:
 }
 ```
 
-### Running code
+### Code details
 
 Create a folder named data and unzip the dataset from link above. Move folder images, masks, and other csv files to the data folder.
 
