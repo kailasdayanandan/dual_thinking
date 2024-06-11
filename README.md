@@ -8,7 +8,7 @@ https://github.com/kailasdayanandan/dual_thinking/releases/download/v0.0.1-datas
 
 ### Running code
 
-A folder data can be created and the contents of the zip file (data, masks, and other csv files) mentioned above can be moved to the folder.
+Create a folder named data and unzip the dataset from link above. Move folder images, masks, and other csv files to the data folder.
 
 The below code can be used to reproduce the results.
 
