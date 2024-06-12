@@ -1,0 +1,323 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "cr": "http://mlcommons.org/croissant/",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataBiases": "cr:dataBiases",
+    "dataCollection": "cr:dataCollection",
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "dct": "http://purl.org/dc/terms/",
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileProperty": "cr:fileProperty",
+    "fileObject": "cr:fileObject",
+    "fileSet": "cr:fileSet",
+    "format": "cr:format",
+    "includes": "cr:includes",
+    "isEnumeration": "cr:isEnumeration",
+    "isLiveDataset": "cr:isLiveDataset",
+    "jsonPath": "cr:jsonPath",
+    "key": "cr:key",
+    "md5": "cr:md5",
+    "parentField": "cr:parentField",
+    "path": "cr:path",
+    "personalSensitiveInformation": "cr:personalSensitiveInformation",
+    "recordSet": "cr:recordSet",
+    "references": "cr:references",
+    "regex": "cr:regex",
+    "repeated": "cr:repeated",
+    "replace": "cr:replace",
+    "sc": "https://schema.org/",
+    "separator": "cr:separator",
+    "source": "cr:source",
+    "subField": "cr:subField",
+    "transform": "cr:transform",
+    "wd": "https://www.wikidata.org/wiki/"
+  },
+  "alternateName": "",
+  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "license": {
+    "@type": "sc:CreativeWork",
+    "name": "Unknown"
+  },
+  "distribution": [
+    {
+      "contentUrl": "https://github.com/kailasdayanandan/dual_thinking/releases/download/v0.0.1-dataset-release/human-confusion-dataset.0.1.zip",
+      "contentSize": "160 MB",
+      "encodingFormat": "application/zip",
+      "@id": "human-confusion-dataset.0.1.zip",
+      "@type": "cr:FileObject",
+      "name": "human-confusion-dataset.0.1.zip",
+      "description": "Archive containing all the contents of the Human Confusion Dataset"
+    },
+    {
+      "includes": "*.jpg",
+      "containedIn": {
+        "@id": "human-confusion-dataset.0.1.zip"
+      },
+      "encodingFormat": "image/jpeg",
+      "@id": "image-jpeg_fileset",
+      "@type": "cr:FileSet",
+      "name": "image/jpeg files",
+      "description": "image/jpeg files contained in human-confusion-dataset.0.1.zip"
+    },
+    {
+      "includes": "*.png",
+      "containedIn": {
+        "@id": "human-confusion-dataset.0.1.zip"
+      },
+      "encodingFormat": "image/png",
+      "@id": "image-png_fileset",
+      "@type": "cr:FileSet",
+      "name": "image/png files",
+      "description": "image/png files contained in human-confusion-dataset.0.1.zip"
+    },
+    {
+      "contentUrl": "annotations_Final.csv",
+      "containedIn": {
+        "@id": "human-confusion-dataset.0.1.zip"
+      },
+      "encodingFormat": "text/csv",
+      "@id": "annotations_Final.csv_fileobject",
+      "@type": "cr:FileObject",
+      "name": "annotations_Final.csv"
+    }
+  ],
+  "recordSet": [
+    {
+      "field": [
+        {
+          "dataType": [
+            "sc:Text"
+          ],
+          "source": {
+            "fileObject": {
+              "@id": "annotations_Final.csv_fileobject"
+            },
+            "extract": {
+              "column": "filename"
+            }
+          },
+          "@id": "annotations_Final.csv/filename",
+          "@type": "cr:Field",
+          "name": "filename"
+        },
+        {
+          "dataType": [
+            "sc:Boolean"
+          ],
+          "source": {
+            "fileObject": {
+              "@id": "annotations_Final.csv_fileobject"
+            },
+            "extract": {
+              "column": "Figure Ground"
+            }
+          },
+          "@id": "annotations_Final.csv/Figure+Ground",
+          "@type": "cr:Field",
+          "name": "Figure Ground"
+        },
+        {
+          "dataType": [
+            "sc:Boolean"
+          ],
+          "source": {
+            "fileObject": {
+              "@id": "annotations_Final.csv_fileobject"
+            },
+            "extract": {
+              "column": "Proximity"
+            }
+          },
+          "@id": "annotations_Final.csv/Proximity",
+          "@type": "cr:Field",
+          "name": "Proximity"
+        },
+        {
+          "dataType": [
+            "sc:Boolean"
+          ],
+          "source": {
+            "fileObject": {
+              "@id": "annotations_Final.csv_fileobject"
+            },
+            "extract": {
+              "column": "Similarity"
+            }
+          },
+          "@id": "annotations_Final.csv/Similarity",
+          "@type": "cr:Field",
+          "name": "Similarity"
+        },
+        {
+          "dataType": [
+            "sc:Boolean"
+          ],
+          "source": {
+            "fileObject": {
+              "@id": "annotations_Final.csv_fileobject"
+            },
+            "extract": {
+              "column": "Continuity"
+            }
+          },
+          "@id": "annotations_Final.csv/Continuity",
+          "@type": "cr:Field",
+          "name": "Continuity"
+        },
+        {
+          "dataType": [
+            "sc:Boolean"
+          ],
+          "source": {
+            "fileObject": {
+              "@id": "annotations_Final.csv_fileobject"
+            },
+            "extract": {
+              "column": "Amodal"
+            }
+          },
+          "@id": "annotations_Final.csv/Amodal",
+          "@type": "cr:Field",
+          "name": "Amodal"
+        },
+        {
+          "dataType": [
+            "sc:Boolean"
+          ],
+          "source": {
+            "fileObject": {
+              "@id": "annotations_Final.csv_fileobject"
+            },
+            "extract": {
+              "column": "Global Mix"
+            }
+          },
+          "@id": "annotations_Final.csv/Global+Mix",
+          "@type": "cr:Field",
+          "name": "Global Mix"
+        },
+        {
+          "dataType": [
+            "sc:Boolean"
+          ],
+          "source": {
+            "fileObject": {
+              "@id": "annotations_Final.csv_fileobject"
+            },
+            "extract": {
+              "column": "Size Diff"
+            }
+          },
+          "@id": "annotations_Final.csv/Size+Diff",
+          "@type": "cr:Field",
+          "name": "Size Diff"
+        },
+        {
+          "dataType": [
+            "sc:Boolean"
+          ],
+          "source": {
+            "fileObject": {
+              "@id": "annotations_Final.csv_fileobject"
+            },
+            "extract": {
+              "column": "Count Diff"
+            }
+          },
+          "@id": "annotations_Final.csv/Count+Diff",
+          "@type": "cr:Field",
+          "name": "Count Diff"
+        },
+        {
+          "dataType": [
+            "sc:Boolean"
+          ],
+          "source": {
+            "fileObject": {
+              "@id": "annotations_Final.csv_fileobject"
+            },
+            "extract": {
+              "column": "Camouflage"
+            }
+          },
+          "@id": "annotations_Final.csv/Camouflage",
+          "@type": "cr:Field",
+          "name": "Camouflage"
+        },
+        {
+          "dataType": [
+            "sc:Text"
+          ],
+          "source": {
+            "fileObject": {
+              "@id": "annotations_Final.csv_fileobject"
+            },
+            "extract": {
+              "column": "Correct"
+            }
+          },
+          "@id": "annotations_Final.csv/Correct",
+          "@type": "cr:Field",
+          "name": "Correct"
+        },
+        {
+          "dataType": [
+            "sc:Text"
+          ],
+          "source": {
+            "fileObject": {
+              "@id": "annotations_Final.csv_fileobject"
+            },
+            "extract": {
+              "column": "Human"
+            }
+          },
+          "@id": "annotations_Final.csv/Human",
+          "@type": "cr:Field",
+          "name": "Human"
+        }
+      ],
+      "@id": "annotations_Final.csv",
+      "@type": "cr:RecordSet",
+      "name": "annotations_Final.csv"
+    }
+  ],
+  "version": 1,
+  "keywords": [],
+  "isAccessibleForFree": true,
+  "includedInDataCatalog": {
+    "@type": "sc:DataCatalog",
+    "name": "GitHub",
+    "url": "https://github.com/kailasdayanandan/dual_thinking"
+  },
+  "creator": {
+    "@type": "sc:Person",
+    "name": "Kailas Dayanandan, Anand Sinha, Brejesh Lall",
+    "url": "https://github.com/kailasdayanandan/dual_thinking",
+    "image": "https://avatars.githubusercontent.com/u/12158374?s=48&v=4"
+  },
+  "publisher": {
+    "@type": "sc:Organization",
+    "name": "GitHub",
+    "url": "https://github.com/kailasdayanandan/dual_thinking",
+    "image": "https://avatars.githubusercontent.com/u/12158374?s=48&v=4"
+  },
+  "thumbnailUrl": "https://avatars.githubusercontent.com/u/12158374?s=48&v=4",
+  "dateModified": "2024-06-11T14:05:03.207",
+  "@type": "sc:Dataset",
+  "name": "Human Confusion Dataset",
+  "url": "https://github.com/kailasdayanandan/dual_thinking",
+  "description": ""
+}
