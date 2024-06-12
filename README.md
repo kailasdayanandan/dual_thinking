@@ -11,7 +11,7 @@ https://github.com/kailasdayanandan/dual_thinking/releases/download/v0.0.1-datas
 
 **Code details**
 
-Create a folder named data and unzip the dataset from link above. 
+Unzip the dataset from link above. 
 
 Move folder images, masks, and other csv files to the data folder.
 
