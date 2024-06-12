@@ -2,12 +2,6 @@
 
 Paper link - https://arxiv.org/abs/2406.06967
 
-## Human Confusion Dataset
-
-The human confusion dataset can be downloaded from the link below.
-
-https://github.com/kailasdayanandan/dual_thinking/releases/download/v0.0.1-dataset-release/human-confusion-dataset.0.1.zip
-
 To cite this project, please use the text below:
 ```
 @misc{dayanandan2024dual,
@@ -20,9 +14,18 @@ To cite this project, please use the text below:
 }
 ```
 
-### Code details
+**Human Confusion Dataset** 
 
-Create a folder named data and unzip the dataset from link above. Move folder images, masks, and other csv files to the data folder.
+The dataset can be downloaded from the link below.
+
+https://github.com/kailasdayanandan/dual_thinking/releases/download/v0.0.1-dataset-release/human-confusion-dataset.0.1.zip
+
+
+**Code details**
+
+Create a folder named data and unzip the dataset from link above. 
+
+Move folder images, masks, and other csv files to the data folder.
 
 The below code can be used to reproduce the results.
 
