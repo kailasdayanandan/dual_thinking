@@ -12,7 +12,7 @@ To cite this project, please use the text below:
     title={Dual Thinking and Perceptual Analysis of Deep Learning Models using Human Adversarial Examples},
     author={Kailas Dayanandan and Anand Sinha and Brejesh Lall},
     year={2024},
-    eprint={2406.xxxxx},
+    eprint={2406.06967},
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
