@@ -1,5 +1,7 @@
 # Dual Thinking and Perceptual Analysis of Deep Learning Models using Human Adversarial Examples
 
+Paper link - https://arxiv.org/abs/2406.06967
+
 ## Human Confusion Dataset
 
 The human confusion dataset can be downloaded from the link below.
