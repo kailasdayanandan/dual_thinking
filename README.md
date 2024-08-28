@@ -10,11 +10,11 @@ The dataset can be downloaded from the link below.
 
 **Example Scripts** 
 
-Examples of images in dataset and different categories of errors are shown in the below script.
+Examples of images in dataset and different categories of errors are shown in the below notebook.
 
 [example_scripts/Exploring_Dataset.ipynb](https://github.com/kailasdayanandan/dual_thinking/blob/main/example_scripts/Exploring_Dataset.ipynb)
 
-The script to reproduce results and figures in paper are shown in the below script.
+The script to reproduce results and figures in paper are shown in the below notebook.
 
 [example_scripts/Results.ipynb](https://github.com/kailasdayanandan/dual_thinking/blob/main/example_scripts/Results.ipynb)
 
