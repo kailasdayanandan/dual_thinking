@@ -1,4 +1,7 @@
-Use Results.ipynb to reproduce figures in paper
+
+Exploring_Dataset.ipynb shows the different types of errors in the dataset.
+
+Results.ipynb reproduce figures in paper.
 
 **Code details**
 
