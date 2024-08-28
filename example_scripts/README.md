@@ -1,4 +1,6 @@
 
+**Example Notebooks**
+
 Examples of images in dataset and different categories of errors are shown in the below script.
 
 [example_scripts/Exploring_Dataset.ipynb](https://github.com/kailasdayanandan/dual_thinking/blob/main/example_scripts/Exploring_Dataset.ipynb)
