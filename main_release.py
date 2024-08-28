@@ -25,9 +25,14 @@ file_ops_path = './data/file_ops_Final.csv'
 pkl_dir = './output/model_outputs/'
 results_processed_path = './output/results_all.csv'
 
+op_plots_dir = 'output/plots'
+
 PROCESS_IMAGE_RESULT = False #False #True
 ENABLE_PLOT_ATTRIBUTES = True #False #True
 SCORE_THRESHOLD = 0.7
+
+if not os.path.exists(op_plots_dir):
+    os.makedirs(op_plots_dir)
 
 ##### Attributes for plotting ###########
 
