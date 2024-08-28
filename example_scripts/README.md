@@ -3,7 +3,7 @@ Examples of images in dataset and different categories of errors are shown in th
 
 [example_scripts/Exploring_Dataset.ipynb](https://github.com/kailasdayanandan/dual_thinking/blob/main/example_scripts/Exploring_Dataset.ipynb)
 
-The script to reproduce results and figures in paper are shown in the below script.
+Results and figures in paper can be reproduced using the below script.
 
 [example_scripts/Results.ipynb](https://github.com/kailasdayanandan/dual_thinking/blob/main/example_scripts/Results.ipynb)
 
