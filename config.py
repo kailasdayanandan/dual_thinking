@@ -9,7 +9,9 @@ def get_model_name_list():
                     'yolact_r50', 'yolact_r101',
                     'swin-t',  'swin-s',                     
                     'instaboost_r50', 'instaboost_r101', 'instaboost_x101', 
-                    'groie_r50', 'groie_r101']
+                    'groie_r50', 'groie_r101',
+                    'gpt-4o', 'gpt-4o-mini', 'llama-3.2-11B'#, 'llama-3.2-90B'
+                    ]
 
 
 def get_model_display_details_by_name(mdl_name_list):
@@ -49,7 +51,11 @@ def get_model_display_details_by_name(mdl_name_list):
             ('scnet_x101', 'SC-Net (X101)', 'SC-Net-X101'),
             ('solov2_r50', 'SOLOv2 (R50)', 'SOLOv2-R50'),
             ('solov2_r101', 'SOLOv2 (R101)', 'SOLOv2-R101'),
-            ('solov2_x101', 'SOLOv2 (X101)', 'SOLOv2-X101'),            
+            ('solov2_x101', 'SOLOv2 (X101)', 'SOLOv2-X101'), 
+            ('gpt-4o', 'GPT-4o', 'GPT-4o'), 
+            ('gpt-4o-mini', 'GPT-4o-mini', 'GPT-4o-mini'), 
+            ('llama-3.2-11B', 'Llama-3.2-11B', 'Llama-3.2-11B'),   
+            ('llama-3.2-90B', 'Llama-3.2-90B', 'Llama-3.2-90B'),                       
         ]
 
     model_names_master = [x[0] for x in model_details_all]

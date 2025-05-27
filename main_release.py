@@ -24,12 +24,15 @@ file_ops_path = './data/file_ops_Final.csv'
 
 pkl_dir = './output/model_outputs/'
 results_processed_path = './output/results_all.csv'
+llms_processed_path = './output/result_llms.csv'
 
 op_plots_dir = 'output/plots'
 
-PROCESS_IMAGE_RESULT = False #False #True
+PROCESS_IMAGE_RESULT = False #True #False #False #True
 ENABLE_PLOT_ATTRIBUTES = True #False #True
 SCORE_THRESHOLD = 0.7
+
+INCLUDE_LLM_RESULTS = True #False #True
 
 if not os.path.exists(op_plots_dir):
     os.makedirs(op_plots_dir)
@@ -53,6 +56,11 @@ other_attributes = analysis_attributes
 
 model_names = get_model_name_list()
 
+if not INCLUDE_LLM_RESULTS:
+    model_names.remove('gpt-4o')
+    model_names.remove('gpt-4o-mini')
+    model_names.remove('llama-3.2-11B')
+
 model_props_final = model_names
 
 model_names_supl = model_names
@@ -73,6 +81,14 @@ if PROCESS_IMAGE_RESULT:
                 img_dir=img_dir, pkl_dir=pkl_dir)
 
 results_df = pd.read_csv(results_processed_path)
+
+if INCLUDE_LLM_RESULTS:
+
+    results_llms_df = pd.read_csv(llms_processed_path)
+    print(len(results_df), list(results_df))
+    print(len(results_llms_df), list(results_llms_df))
+    results_df = pd.concat([results_df, results_llms_df])
+    print(len(results_df), list(results_df))
 
 sub_groups_df = pd.read_csv(annotations_path)
 
@@ -234,6 +250,72 @@ plt.setp(boxplot.get_xticklabels(), ha="right", rotation=45)
 plt.tight_layout()
 plt.savefig(save_path)
 plt.show()
+
+# --------------------------------- Model Comparison  ---------------------------------
+
+model_names_comparison = [ 'mask_rcnn_r50', 'mask_rcnn_r101', 'mask_rcnn_x101', 
+                        #'instaboost_r50', 'instaboost_r101', 'instaboost_x101',
+                        #'groie_r50', 'groie_r101',                        
+                        #'yolact_r50', 'yolact_r101', 
+                        'swin-s',  'swin-t',
+                        'gpt-4o', 'gpt-4o-mini', 'llama-3.2-11B', 'llama-3.2-90B',
+                        ]
+
+model_names_comparison =  [x for x in model_names_comparison if x in model_names_all] 
+
+comparison_attributes = ['Size Diff','Count Diff','Camouflage',        
+                        'Figure Ground', 'Amodal', 'Similarity']
+
+process_data_box(model_names_comparison, results_model_attr,    
+                    model_names_all, model_display_names_d, 
+                    comparison_attributes, './output/plots/comparison_prop_plot.png')
+
+df_stats = pd.DataFrame(data=df_data, columns=cols)
+
+df_correct = pd.DataFrame(data=df_correct_data, columns=cols)
+df_human = pd.DataFrame(data=df_human_data, columns=cols)
+
+df_correct_ltx = df_correct[['Model'] + comparison_attributes]
+df_human_ltx = df_human[['Model'] + comparison_attributes]
+
+num_titles = []
+for attr in comparison_attributes:
+    model_attr_dfs = [mdf.loc[mdf[attr]==True] for mdf in m_dfs]    
+    if attr in comparison_attributes:        
+        ptitle = attr + ' (' + str(len(model_attr_dfs[0])) + ')'
+        num_titles.append(ptitle)
+
+num_titles = comparison_attributes
+
+num_titles = list(df_correct_ltx)
+num_titles.remove('Model')
+
+table_model_list = [model_display_table_d[x] for x in model_names_comparison]
+df_correct_ltx = df_correct_ltx[df_correct_ltx['Model'].isin(table_model_list)]
+df_human_ltx = df_human_ltx[df_human_ltx['Model'].isin(table_model_list)]
+
+df_dt_correct_ltx = df_correct_ltx.copy()
+df_dt_correct_ltx.reset_index(drop=True, inplace=True)
+df_dt_correct_ltx['Property'] = ''
+df_dt_correct_ltx.loc[4,'Property'] = 'Correct'
+df_dt_human_ltx = df_human_ltx.copy()
+df_dt_human_ltx.reset_index(drop=True, inplace=True)
+df_dt_human_ltx['Property'] = ''
+df_dt_human_ltx.loc[4,'Property'] = 'Human'
+df_dt_human_ltx.loc[5,0] = 'Similarity'
+
+df_dt_correct_ltx = df_dt_correct_ltx[['Property', 'Model'] + comparison_attributes]
+df_dt_human_ltx = df_dt_human_ltx[['Property', 'Model'] + comparison_attributes]
+
+latex_str = convert_to_tex(df_dt_correct_ltx, num_titles)
+latex_str_h = convert_to_tex(df_dt_human_ltx, num_titles)
+latex_str = latex_str.split('\\bottomrule')[0]
+latex_str_h = latex_str_h.split('\\midrule')[1]
+dual_table_str = latex_str + '\\midrule\n\\midrule' + latex_str_h
+
+with open("output/comparison_table_both.tex", "w") as fh:
+    fh.write(dual_table_str)
+
 
 
 
