@@ -23,8 +23,8 @@ The script to reproduce results and figures in paper are shown in the below note
 To cite this project, please use the citation below:
 ```
 @misc{dayanandan2024dual,
-    title={Dual Thinking and Perceptual Analysis of Deep Learning Models using Human Adversarial Examples},
-    author={Kailas Dayanandan and Anand Sinha and Brejesh Lall},
+    title={Dual Thinking and Logical Processing - Are Multi-modal Large Language Models Closing the Gap with Human Vision ?},
+    author={Kailas Dayanandan, Nikhil Kumar, Anand Sinha and Brejesh Lall},
     year={2024},
     eprint={2406.06967},
     archivePrefix={arXiv},
