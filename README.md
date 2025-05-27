@@ -1,4 +1,4 @@
-# Dual Thinking and Perceptual Analysis of Deep Learning Models using Human Adversarial Examples
+# Dual Thinking and Logical Processing - Are Multi-modal Large Language Models Closing the Gap with Human Vision ?
 
 Paper link - https://arxiv.org/abs/2406.06967
 
