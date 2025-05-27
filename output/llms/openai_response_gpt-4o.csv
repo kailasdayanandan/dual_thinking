@@ -1,0 +1,1001 @@
+Filename,Question,Human,Correct,Type,Model,Response
+image_0000.jpg,Is the truck carrying anything ?,Yes,No,Yes/No,gpt-4o,No
+image_0001.jpg,Do the truck have a trailer ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0002.jpg,Is the truck carrying anything ?,Yes,No,Yes/No,gpt-4o,No.
+image_0003.jpg,how many dogs are there in the picture ?,1,2,Numeric,gpt-4o,1
+image_0004.jpg,How many dogs do you see ?,1,2,Numeric,gpt-4o,1
+image_0005.jpg,how many animals are there in the picture ?,1,2,Numeric,gpt-4o,2
+image_0006.jpg,how many dogs are there in the picture ?,1,2,Numeric,gpt-4o,1
+image_0007.jpg,Do you see the legs of man wearing a cap ?,Yes,No,Yes/No,gpt-4o,No.
+image_0008.jpg,How many dogs do you see ?,1,2,Numeric,gpt-4o,1
+image_0009.jpg,Do you see finger,Yes,No,Yes/No,gpt-4o,No
+image_0010.jpg,Can you see an animal in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0011.jpg,Can you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0012.jpg,Do you see a man's hand ?,Yes,No,Yes/No,gpt-4o,No
+image_0013.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0014.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0015.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0016.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0017.jpg,Can you see an animal in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0018.jpg,Can you see an animal in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0019.jpg,Can you see an animal in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0020.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0021.jpg,Do you see a black cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0022.jpg,Did you see a cow in picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0023.jpg,Did you see a bear in picture ?,Yes,No,Yes/No,gpt-4o,No.
+image_0024.jpg,Is the man's's leg visible ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0025.jpg,Can you see the legs of man in centre ?,Yes,No,Yes/No,gpt-4o,No.
+image_0026.jpg,Is the person wearing high heel shoes,Yes,No,Yes/No,gpt-4o,Yes.
+image_0027.jpg,Do you see any striped cat,Yes,No,Yes/No,gpt-4o,No.
+image_0028.jpg,Can you see the skirt of the person whose legs are visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0029.jpg,Do you see a dove ?,Yes,No,Yes/No,gpt-4o,No
+image_0030.jpg,Is there a man running with a leg behind ?,Yes,No,Yes/No,gpt-4o,No.
+image_0031.jpg,Do the man have long hair ?,Yes,No,Yes/No,gpt-4o,No.
+image_0032.jpg,How many dogs can you see in this piture ?,1,2,Numeric,gpt-4o,2
+image_0033.jpg,Do you see the woman and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0034.jpg,Is the lady wearing high knee stocking,Yes,No,Yes/No,gpt-4o,No.
+image_0035.jpg,Do you see one or two horse ?,1,2,Numeric,gpt-4o,2
+image_0036.jpg,Do you see cat with head and body,Yes,No,Yes/No,gpt-4o,No.
+image_0037.jpg,Are you able to see both cycle tyres ?,Yes,No,Yes/No,gpt-4o,No.
+image_0038.jpg,Is the man's's leg visible ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0039.jpg,Is the man's leg folded behind ?,Yes,No,Yes/No,gpt-4o,No.
+image_0040.jpg,Is the lady in the peach sweater looking back?,Yes,No,Yes/No,gpt-4o,No
+image_0041.jpg,Can you see the legs of the man in checked shirt ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0042.jpg,Can you see the girls left hand ?,Yes,No,Yes/No,gpt-4o,No
+image_0043.jpg,How many cats do you seen in this picture ?,1,2,Numeric,gpt-4o,2
+image_0044.jpg,Can you see the right hand of the man wearing black tshirt ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0045.jpg,How many dog can you see in the picture ?,1,2,Numeric,gpt-4o,2
+image_0046.jpg,How many dog can you see in the picture ?,1,2,Numeric,gpt-4o,1
+image_0047.jpg,Can you see the animal's legs ?,Yes,No,Yes/No,gpt-4o,No.
+image_0048.jpg,How many people are there in the picture ?,1,2,Numeric,gpt-4o,2
+image_0049.jpg,Does the cat has two heads ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0050.jpg,How many cats do you see in the picture ?,1,2,Numeric,gpt-4o,1
+image_0051.jpg,Can you see dog's legs ?,Yes,No,Yes/No,gpt-4o,No
+image_0052.jpg,Is the man's posterior uncovered ?,Yes,No,Yes/No,gpt-4o,No.
+image_0053.jpg,Is the man standing in water?,Yes,No,Yes/No,gpt-4o,No.
+image_0054.jpg,Can you see the legs of the person ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0055.jpg,Can you see the person's face ?,Yes,No,Yes/No,gpt-4o,No.
+image_0056.jpg,Can you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0057.jpg,Can you see the person's head ?,Yes,No,Yes/No,gpt-4o,No.
+image_0058.jpg,Can you see the baby's left hand ?,Yes,No,Yes/No,gpt-4o,No.
+image_0059.jpg,Does the man on the right and standing on dais have a long right hand?,Yes,No,Yes/No,gpt-4o,No.
+image_0060.jpg,How many cats can you see in the picture ?,1,2,Numeric,gpt-4o,1
+image_0061.jpg,Are both legs of the lady visible?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0062.jpg,Can you see the shoes of the guy sitting ?,No,Yes,Yes/No,gpt-4o,No.
+image_0063.jpg,How many cats do you seen in this picture ?,1,2,Numeric,gpt-4o,1
+image_0064.jpg,How many people are there in the image?,1,2,Numeric,gpt-4o,1
+image_0065.jpg,How many cats do you seen in this picture ?,1,2,Numeric,gpt-4o,2
+image_0066.jpg,How many dogs do you see in the picture ?,1,2,Numeric,gpt-4o,1
+image_0067.jpg,Do you see a cat in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0068.jpg,Do you see a person in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0069.jpg,How many dogs do you seen in this picture ?,1,2,Numeric,gpt-4o,2
+image_0070.jpg,Can you see the dog's eyes ?,Yes,No,Yes/No,gpt-4o,No
+image_0071.jpg,How many animals do you see near the machine in the centre ?,1,2,Numeric,gpt-4o,2
+image_0072.jpg,Can you see the child's leg ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0073.jpg,How many dogs are in this picture ?,1,2,Numeric,gpt-4o,1
+image_0074.jpg,Do you see a person and a cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0075.jpg,How many cats are in this picture ?,1,2,Numeric,gpt-4o,2
+image_0076.jpg,How many dogs are there in the picture ?,1,2,Numeric,gpt-4o,1
+image_0077.jpg,How many giraffe can you see in the picture ?,1,2,Numeric,gpt-4o,2
+image_0078.jpg,How many cats are in this picture ?,1,2,Numeric,gpt-4o,2
+image_0079.jpg,How many dogs are in this picture ?,1,2,Numeric,gpt-4o,2
+image_0080.jpg,Do you see the woman and dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0081.jpg,How many birds can you see in the picture ?,1,2,Numeric,gpt-4o,1
+image_0082.jpg,Can you see the beard of the man standing in the centre correctly ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0083.jpg,Can you see the birds in the tree ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0084.jpg,Can you see the right middle finger of the guy wearing violet coat?,Yes,No,Yes/No,gpt-4o,No.
+image_0085.jpg,Can you see the legs of person wearing the blue jacket?,Yes,No,Yes/No,gpt-4o,No.
+image_0086.jpg,How many people are there in the picture?,1,2,Numeric,gpt-4o,1
+image_0087.jpg,Can you see the face of the woman on the right side of the image ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0088.jpg,"Is the person on right, holding the lady ?",Yes,No,Yes/No,gpt-4o,Yes.
+image_0089.jpg,Can you see a horse in the picture ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0090.jpg,Is the cat pointing to something?,Yes,No,Yes/No,gpt-4o,No.
+image_0091.jpg,How many people are celebrating by raising their hands?,1,2,Numeric,gpt-4o,1
+image_0092.jpg,How many cats are in this picture ?,1,2,Numeric,gpt-4o,2
+image_0093.jpg,Do you see a cat in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0094.jpg,Do you see a cat in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0095.jpg,Can you see the dog's all legs ?,Yes,No,Yes/No,gpt-4o,No.
+image_0096.jpg,How many dogs are in this picture ?,1,2,Numeric,gpt-4o,2
+image_0097.jpg,Is the dog in the back holding the dog in front ?,Yes,No,Yes/No,gpt-4o,No
+image_0098.jpg,Can you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0099.jpg,Can you see a dog in this picture ?,Yes,No,Yes/No,gpt-4o,No
+image_0100.jpg,Is the cat's face visible?,Yes,No,Yes/No,gpt-4o,No.
+image_0101.jpg,Can you see the leg of the man on the right wearing white t-shirt ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0102.jpg,Does the man on the right has his hands over the shoulder of the woman on the left,Yes,No,Yes/No,gpt-4o,No.
+image_0103.jpg,How many dogs are in this picture ?,1,2,Numeric,gpt-4o,1
+image_0104.jpg,Is the person in the centre holding the guy with the bag ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0105.jpg,Can you see dog’s legs ?,Yes,No,Yes/No,gpt-4o,No.
+image_0106.jpg,How many cats are in this picture ?,1,2,Numeric,gpt-4o,2
+image_0107.jpg,Can you see the cat's nose ?,Yes,No,Yes/No,gpt-4o,No.
+image_0108.jpg,How many cats are in this picture ?,1,2,Numeric,gpt-4o,1
+image_0109.jpg,How many dogs are in this picture ?,1,2,Numeric,gpt-4o,1
+image_0110.jpg,Is the girl sitting on the couch?,No,Yes,Yes/No,gpt-4o,No.
+image_0111.jpg,Is the tall guy holding the girl in extreme left ?,Yes,No,Yes/No,gpt-4o,No
+image_0112.jpg,Can you see the dog's tail?,Yes,No,Yes/No,gpt-4o,No
+image_0113.jpg,Does the guy or right have his right hand close to body ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0114.jpg,Is the singer also handling the vertical guitar ?,Yes,No,Yes/No,gpt-4o,No.
+image_0115.jpg,Does the guy or right have his right hand close to body ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0116.jpg,Is the man in the centre holding the mic,Yes,No,Yes/No,gpt-4o,No
+image_0117.jpg,Do you see the man and hen ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0118.jpg,Do you see the man and the dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0119.jpg,"Is the body of the old man on the right, visible?",Yes,No,Yes/No,gpt-4o,No.
+image_0120.jpg,Can you see the left man's left hand ?,Yes,No,Yes/No,gpt-4o,No.
+image_0121.jpg,How many dogs are in this picture ?,1,2,Numeric,gpt-4o,2
+image_0122.jpg,Is the right hand of the woman in the middle visible?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0123.jpg,How many cats are in this picture ?,1,2,Numeric,gpt-4o,2
+image_0124.jpg,Is the woman in the centre wearing black jeans ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0125.jpg,"Do you see a woman, man and a cat ?",No,Yes,Yes/No,gpt-4o,Yes.
+image_0126.jpg,How many dogs do you see in the picture ?,1,2,Numeric,gpt-4o,1
+image_0127.jpg,Is the cat’s head near top of the sofa ?,Yes,No,Yes/No,gpt-4o,No.
+image_0128.jpg,Can you see a woman’s face in this picture?,No,Yes,Yes/No,gpt-4o,No
+image_0129.jpg,How many dogs do you see in the picture ?,2,1,Numeric,gpt-4o,1
+image_0130.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0131.jpg,Can you see a man wearing jean shorts?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0132.jpg,Can you see the baby's left hand ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0133.jpg,Do you see the persons face ?,Yes,No,Yes/No,gpt-4o,No
+image_0134.jpg,Can you see both the legs of the lady in black tshirt ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0135.jpg,How many cats are there in this picture ?,1,2,Numeric,gpt-4o,1
+image_0136.jpg,How many dogs are there in this picture ?,4,5,Numeric,gpt-4o,5
+image_0137.jpg,Can you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0138.jpg,How many cats are there in this picture ?,1,2,Numeric,gpt-4o,1
+image_0139.jpg,Can you see the face of the person?,Yes,No,Yes/No,gpt-4o,No.
+image_0140.jpg,Are both wheels of the cycle on the right touching the floor ?,Yes,No,Yes/No,gpt-4o,No.
+image_0141.jpg,Is the guy on right holding the bottle ?,Yes,No,Yes/No,gpt-4o,No
+image_0142.jpg,Can you see the head of man wearing red jacket ?,Yes,No,Yes/No,gpt-4o,No
+image_0143.jpg,Can you see the head of cat with brown body ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0144.jpg,Can you see a man with wide shoulders?,Yes,No,Yes/No,gpt-4o,No.
+image_0145.jpg,Can you see the right hand of the man on the right ?,No,Yes,Yes/No,gpt-4o,No
+image_0146.jpg,How many people can you seen in this picture ?,1,2,Numeric,gpt-4o,2
+image_0147.jpg,Is the bent person’s left leg visible ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0148.jpg,Can you see the hands of the girl on the right wearing the yellow dress?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0149.jpg,How many people do you seen in this picture ?,1,2,Numeric,gpt-4o,2
+image_0150.jpg,Can you see the face of the man wearing blue shirt ?,Yes,No,Yes/No,gpt-4o,No
+image_0151.jpg,Is the man wearing blue briefs ?,Yes,No,Yes/No,gpt-4o,No
+image_0152.jpg,Can you see the fingers of both hands ?,Yes,No,Yes/No,gpt-4o,No.
+image_0153.jpg,Can you see the right hand of the man in costume ?,Yes,No,Yes/No,gpt-4o,No.
+image_0154.jpg,Do you see a person in the picture ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0155.jpg,Can you see a dog in the image?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0156.jpg,Can you see a cat with eight legs?,Yes,No,Yes/No,gpt-4o,No.
+image_0157.jpg,How many cats do you see in this picture ?,1,2,Numeric,gpt-4o,1
+image_0158.jpg,Does the girl have yoda like ears?,Yes,No,Yes/No,gpt-4o,No
+image_0159.jpg,Is the person with blue hair wearing black tshirt?,Yes,No,Yes/No,gpt-4o,No.
+image_0160.jpg,Can you see the complete face of the person wearing blue jeans ?,Yes,No,Yes/No,gpt-4o,No.
+image_0161.jpg,Has the man wearing yellow jersey stretched any of his hand ?,Yes,No,Yes/No,gpt-4o,No
+image_0162.jpg,Do you see a dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0163.jpg,Do you see a tiger ?,No,Yes,Yes/No,gpt-4o,No
+image_0164.jpg,Do you see a tiger ?,No,Yes,Yes/No,gpt-4o,No
+image_0165.jpg,Do you see a cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0166.jpg,Do you see a rabbit ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0167.jpg,Do you see a cat ?,No,Yes,Yes/No,gpt-4o,No.
+image_0168.jpg,Do you see a mountain goat?,No,Yes,Yes/No,gpt-4o,Yes
+image_0169.jpg,Do you see a cheetah?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0170.jpg,Can you see the dog’s body?,Yes,No,Yes/No,gpt-4o,No.
+image_0171.jpg,How many legs of the person wearing green camouflage dress visible ?,3,2,Numeric,gpt-4o,2
+image_0172.jpg,Do you see any animal in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0173.jpg,Do you see any animal ?,No,Yes,Yes/No,gpt-4o,Yes
+image_0174.jpg,Do you see the deer ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0175.jpg,Do you see a cat in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0176.jpg,Do you see a cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0177.jpg,Do you see the deer ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0178.jpg,Is the person wearing a cream robe have a big white hat ?,Yes,No,Yes/No,gpt-4o,No.
+image_0179.jpg,Is the man wearing grey pants ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0180.jpg,How many dog's head is visible ?,1,2,Numeric,gpt-4o,2
+image_0181.jpg,Do you see a cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0182.jpg,Is the man's both body and leg visible ?,No,Yes,Yes/No,gpt-4o,Yes
+image_0183.jpg,Do  you see the dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0184.jpg,How many human's are there in this picture?,2,1,Numeric,gpt-4o,1
+image_0185.jpg,Is the person sitting on chair wearing slippers ?,Yes,No,Yes/No,gpt-4o,No.
+image_0186.jpg,How many birds do you see ?,5,6,Numeric,gpt-4o,4
+image_0187.jpg,How many people do you see ?,1,2,Numeric,gpt-4o,1
+image_0188.jpg,Can you see a dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0189.jpg,Can you see a dog in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0190.jpg,Can you see a dog in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0191.jpg,Can you see a cat in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0192.jpg,Can you see a cat in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0193.jpg,Is the centre player occluding any other player ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0194.jpg,Can you see the woman's head ?,Yes,No,Yes/No,gpt-4o,No.
+image_0195.jpg,how many cats are there in the picture ?,1,2,Numeric,gpt-4o,2
+image_0196.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0197.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0198.jpg,How many cats are there in the picture?,1,2,Numeric,gpt-4o,1
+image_0199.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0200.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0201.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes
+image_0202.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0203.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0204.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0205.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0206.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0207.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0208.jpg,Did you see a dog and a man ?,No,Yes,Yes/No,gpt-4o,Yes
+image_0209.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0210.jpg,can you see a cat with body and tail visible ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0211.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0212.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0213.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0214.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0215.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0216.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0217.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0218.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0219.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0220.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0221.jpg,How many cats are in this picture ?,1,2,Numeric,gpt-4o,2
+image_0222.jpg,Can you see an animal in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0223.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes
+image_0224.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0225.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0226.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0227.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0228.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0229.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0230.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0231.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0232.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0233.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0234.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0235.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0236.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0237.jpg,How many cats are there in the picture?,1,2,Numeric,gpt-4o,2
+image_0238.jpg,How many cats are there in the picture?,1,2,Numeric,gpt-4o,2
+image_0239.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0240.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0241.jpg,How many dogs are there in the picture?,1,2,Numeric,gpt-4o,2
+image_0242.jpg,Is the woman wearing a hat ?,No,Yes,Yes/No,gpt-4o,No.
+image_0243.jpg,Can you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0244.jpg,How many cats can you see in the picture ?,1,2,Numeric,gpt-4o,2
+image_0245.jpg,Can you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0246.jpg,Can you see a man and dog in the picture ?,No,Yes,Yes/No,gpt-4o,No
+image_0247.jpg,Does the sandal have heels?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0248.jpg,Can you see a man and dog in the picture ?,No,Yes,Yes/No,gpt-4o,Yes
+image_0249.jpg,How many people are there in this picture ?,1,2,Numeric,gpt-4o,1
+image_0250.jpg,How many dogs are in this picture ?,1,2,Numeric,gpt-4o,2
+image_0251.jpg,How many people are there in the middle of the picture ?,1,2,Numeric,gpt-4o,There is 1 person in the middle of the picture.
+image_0252.jpg,Is the man wearing a white pant ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0253.jpg,Is the black dog obstructing the other dog's face,yes,No,Yes/No,gpt-4o,No.
+image_0254.jpg,Is the man wearing a white striped shirt ?,Yes,No,Yes/No,gpt-4o,No.
+image_0255.jpg,How mant people are there in the picture?,1,2,Numeric,gpt-4o,1
+image_0256.jpg,Is the man wearing a Hat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0257.jpg,Is the man reaching for the girl's back pocket?,Yes,No,Yes/No,gpt-4o,No.
+image_0258.jpg,Did you see a dog and a man ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0259.jpg,Is the man's lower half of the body visible?,Yes,No,Yes/No,gpt-4o,No.
+image_0260.jpg,Is the girl wearing a blue top?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0261.jpg,Did you see a dog and a person ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0262.jpg,Is the posterior of the woman in pink visible from the rear?,Yes,No,Yes/No,gpt-4o,No.
+image_0263.jpg,Do you see the woman and cat?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0264.jpg,Can you see the man wearing the jacket?,Yes,No,Yes/No,gpt-4o,No
+image_0265.jpg,Is there light grey patch on woman's clothes ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0266.jpg,Do you see the owl ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0267.jpg,Is the girl with black dress is carried by the other two?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0268.jpg,Do you see a mouse ?,Yes,No,Yes/No,gpt-4o,No.
+image_0269.jpg,Is the lady wearing the pants and the man wearing a skirt?,Yes,No,Yes/No,gpt-4o,No.
+image_0270.jpg,Can you see the both leg of the lady in centre ?,Yes,No,Yes/No,gpt-4o,No.
+image_0271.jpg,Can you see both hands of the kid in the centre front row?,No,Yes,Yes/No,gpt-4o,No.
+image_0272.jpg,How many giraffes do you see in the picture ?,1,2,Numeric,gpt-4o,1
+image_0273.jpg,How many people can you see in the picture ?,1,2,Numeric,gpt-4o,2
+image_0274.jpg,Is the girl carrying the man on her back?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0275.jpg,"Is the lips of the girl in the middle, visible?",Yes,No,Yes/No,gpt-4o,No.
+image_0276.jpg,Do you see any bird in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0277.jpg,Do you see any dog in the picture ?,Yes,No,Yes/No,gpt-4o,No
+image_0278.jpg,Do you see the Woman and Dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0279.jpg,Do you see the man and dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0280.jpg,Is the woman wearing a blue jeans ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0281.jpg,Is the right arm of the guy resting on the sofa ?,Yes,No,Yes/No,gpt-4o,No.
+image_0282.jpg,Can you see the woman's nose ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0283.jpg,Is the face of man riding a cycle visible ?,Yes,No,Yes/No,gpt-4o,No
+image_0284.jpg,Can you see a dog’s both head and body ?,Yes,No,Yes/No,gpt-4o,No
+image_0285.jpg,Can you see any bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0286.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0287.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0288.jpg,Is the girl’s hands visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0289.jpg,Can you see a cat?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0290.jpg,Can you see a cat?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0291.jpg,How many birds can you see?,1,2,Numeric,gpt-4o,2
+image_0292.jpg,Can you see a bird in the picture ?,No,Yes,Yes/No,gpt-4o,Yes
+image_0293.jpg,Can you see a bird in the picture ?,No,Yes,Yes/No,gpt-4o,Yes
+image_0294.jpg,Can you see the kid's leg ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0295.jpg,Can you see a bird in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0296.jpg,Can you see a bird in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0297.jpg,Does the animal in picture have horns ?,Yes,No,Yes/No,gpt-4o,No.
+image_0298.jpg,Can you see the man's head ?,Yes,No,Yes/No,gpt-4o,No.
+image_0299.jpg,how many people are there in the picture ?,3,4,Numeric,gpt-4o,4
+image_0300.jpg,Is the woman who is standing wearing jeans?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0301.jpg,Can you see the dog's teeth ?,Yes,No,Yes/No,gpt-4o,No.
+image_0302.jpg,Does the lying animal have horns?,Yes,No,Yes/No,gpt-4o,No.
+image_0303.jpg,Is any person wearing a white gown?,Yes,No,Yes/No,gpt-4o,No.
+image_0304.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0305.jpg,Is the cats paws obstructed ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0306.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0307.jpg,Can you see a doll and cat in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0308.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0309.jpg,Can you see the left hand of the person shaking hands with the woman ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0310.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0311.jpg,Can you see the body of the man in blue shirt ?,Yes,No,Yes/No,gpt-4o,No
+image_0312.jpg,Can you see the mouth of the woman ?,Yes,No,Yes/No,gpt-4o,No.
+image_0313.jpg,How many dogs can you see in the picture?,1,2,Numeric,gpt-4o,2
+image_0314.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0315.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0316.jpg,How many dogs do you see in this picture?,1,2,Numeric,gpt-4o,2
+image_0317.jpg,How many people can you see in this picture ?,5,1,Numeric,gpt-4o,0
+image_0318.jpg,How many giraffe do you see in this picture?,1,2,Numeric,gpt-4o,2
+image_0319.jpg,Can you see the man's head ?,Yes,No,Yes/No,gpt-4o,No.
+image_0320.jpg,Can you see a zebra in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0321.jpg,How many elephants can you see?,1,2,Numeric,gpt-4o,2
+image_0322.jpg,Do you see an animal in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0323.jpg,Do you see an animal in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0324.jpg,How many animals do you see in this picture?,1,2,Numeric,gpt-4o,2
+image_0325.jpg,Do you see a cat on the table?,Yes,No,Yes/No,gpt-4o,No.
+image_0326.jpg,How many cats are in this picture ?,1,2,Numeric,gpt-4o,1
+image_0327.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0328.jpg,Do you see a man and a horse ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0329.jpg,Is the woman’s face visible ?,Yes,No,Yes/No,gpt-4o,No
+image_0330.jpg,Do you see a person and a dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0331.jpg,Do you see the man and a cat?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0332.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0333.jpg,Can you see the nose of the girl ?,Yes,No,Yes/No,gpt-4o,No.
+image_0334.jpg,Do you see a cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0335.jpg,Is the lady standing ?,Yes,No,Yes/No,gpt-4o,No.
+image_0336.jpg,Can you see the boy's legs,Yes,No,Yes/No,gpt-4o,No.
+image_0337.jpg,Did you see a cat in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0338.jpg,Is the girl standing behind the railing ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0339.jpg,Can you see lower half of the woman's sweater,Yes,No,Yes/No,gpt-4o,No
+image_0340.jpg,Can you see the girl's legs,Yes,No,Yes/No,gpt-4o,No.
+image_0341.jpg,Did you see a cat in the picture ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0342.jpg,Can you see the body of the woman in centre next to man in black shirt ?,Yes,No,Yes/No,gpt-4o,No
+image_0343.jpg,Is is the woman sitting with legs open ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0344.jpg,How many legs does the woman have ?,3,2,Numeric,gpt-4o,2
+image_0345.jpg,How many cows do you see ?,1,2,Numeric,gpt-4o,2
+image_0346.jpg,Is the man wearing a white shirt ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0347.jpg,Is the man wearing a blue denim shorts ?,Yes,No,Yes/No,gpt-4o,No.
+image_0348.jpg,Is the woman on the right sitting with her legs open ?,Yes,No,Yes/No,gpt-4o,No.
+image_0349.jpg,Can you see the baby’s legs ?,Yes,No,Yes/No,gpt-4o,No.
+image_0350.jpg,Is the man wearing a yellow t-shirt ?,Yes,No,Yes/No,gpt-4o,No.
+image_0351.jpg,Is the kid in the front flexing his arms?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0352.jpg,Can you see the head of the woman wearing black top with white spots ?,Yes,No,Yes/No,gpt-4o,No
+image_0353.jpg,How many horses do you see ?,1,2,Numeric,gpt-4o,2
+image_0354.jpg,Can you see the lower half of the girl wearing black upper and with long hair ?,Yes,No,Yes/No,gpt-4o,No.
+image_0355.jpg,How many dogs do you see ?,1,2,Numeric,gpt-4o,2
+image_0356.jpg,Is the legs of old man in green t-shirt visible ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0357.jpg,Can you see two women and a dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0358.jpg,Can you see the bottom part of the body of man in the centre ?,Yes,No,Yes/No,gpt-4o,No.
+image_0359.jpg,How man dogs do you see in the picture?,1,2,Numeric,gpt-4o,1
+image_0360.jpg,Is the man's legs visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0361.jpg,Is the man's hand folded ?,Yes,No,Yes/No,gpt-4o,No
+image_0362.jpg,Do you see the other hand of the boy in yellow ?,Yes,No,Yes/No,gpt-4o,No.
+image_0363.jpg,Does the girl on the right has her hands on the shoulders of the girl on the left?,Yes,No,Yes/No,gpt-4o,No
+image_0364.jpg,Can you see left hand of the man?,Yes,No,Yes/No,gpt-4o,No.
+image_0365.jpg,How many people do you see in the picture?,1,2,Numeric,gpt-4o,1
+image_0366.jpg,Do you see a woman?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0367.jpg,Is the hair of the man in the centre standing?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0368.jpg,Do you see the woman and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0369.jpg,Is the man wearing a blue dress ?,Yes,No,Yes/No,gpt-4o,No.
+image_0370.jpg,Do you see the man and dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0371.jpg,Do you see the man and a hen ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0372.jpg,How many cats do you see ?,1,2,Numeric,gpt-4o,2
+image_0373.jpg,How many people do you see in the picture?,1,2,Numeric,gpt-4o,2
+image_0374.jpg,Is the man smiling wearing a striped tshirt?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0375.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0376.jpg,Can you see the girl's hands ?,Yes,No,Yes/No,gpt-4o,No.
+image_0377.jpg,Do you see the left arm of boy in green shorts ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0378.jpg,Can you see the girl's right hand ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0379.jpg,Are the legs of the woman visible?,No,Yes,Yes/No,gpt-4o,No.
+image_0380.jpg,Can you see any animal in the picture ?,Yes,No,Yes/No,gpt-4o,No.
+image_0381.jpg,How many people are on the motobike ?,2,1,Numeric,gpt-4o,2
+image_0382.jpg,Can you see the car's tyre ?,Yes,No,Yes/No,gpt-4o,No.
+image_0383.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0384.jpg,Do you see the Woman and Dog?,No,Yes,Yes/No,gpt-4o,Yes
+image_0385.jpg,Is the legs of man in blue shirt visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0386.jpg,Can you see the man's legs ?,No,Yes,Yes/No,gpt-4o,No.
+image_0387.jpg,Do you see a dog in this picture ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0388.jpg,Is the right hand of the guy in the blue shirt visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0389.jpg,Is the lady sitting on man's shoulder ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0390.jpg,How many persons are there in the centre of the image ?,1,2,Numeric,gpt-4o,1
+image_0391.jpg,Can you see the both legs of the man ?,Yes,No,Yes/No,gpt-4o,No
+image_0392.jpg,Can you see an animal in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0393.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0394.jpg,Is she holding a doll ?,Yes,No,Yes/No,gpt-4o,No.
+image_0395.jpg,Do you see the singer's legs ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0396.jpg,Does the bus have more than two decks ?,Yes,No,Yes/No,gpt-4o,No.
+image_0397.jpg,Are the legs of the woman in the centre visible ?,Yes,No,Yes/No,gpt-4o,No
+image_0398.jpg,Are both legs of the girl visible ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0399.jpg,Do you see the man and dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0400.jpg,Do you see the man's face' ?,Yes,No,Yes/No,gpt-4o,No
+image_0401.jpg,Can you see the woman's legs ?,Yes,No,Yes/No,gpt-4o,No
+image_0402.jpg,Do you see the woman and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0403.jpg,Can you see the cat's head completely ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0404.jpg,Can you see the man's leg ?,Yes,No,Yes/No,gpt-4o,No.
+image_0405.jpg,How many cats do you see in the picture ?,1,2,Numeric,gpt-4o,2
+image_0406.jpg,Can you see the man's face ?,Yes,No,Yes/No,gpt-4o,No.
+image_0407.jpg,Do you see a hole in the cat ?,Yes,No,Yes/No,gpt-4o,No.
+image_0408.jpg,Can you see the kids leg ?,Yes,No,Yes/No,gpt-4o,No.
+image_0409.jpg,Can you see the head of man wearing grey t-shirt ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0410.jpg,Do you see the woman and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0411.jpg,How many cats can you see in the picture ?,1,2,Numeric,gpt-4o,1
+image_0412.jpg,Is the bride's gown close to the grass in the park ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0413.jpg,Did you see zebra in the image ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0414.jpg,Does the man has an afro?,Yes,No,Yes/No,gpt-4o,No.
+image_0415.jpg,Can you see a women's skirt in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0416.jpg,Can you see the man's leg ?,Yes,No,Yes/No,gpt-4o,No.
+image_0417.jpg,how many dogs are there in the picture ?,1,2,Numeric,gpt-4o,2
+image_0418.jpg,Are her legs touching the ground ?,Yes,No,Yes/No,gpt-4o,No.
+image_0419.jpg,Is the woman in red's hands too long ?,Yes,No,Yes/No,gpt-4o,No.
+image_0420.jpg,Is the man on the scooter wearing a blue jeans ?,No,Yes,Yes/No,gpt-4o,No.
+image_0421.jpg,Can you see a man's eyes in the picture ?,No,Yes,Yes/No,gpt-4o,No
+image_0422.jpg,How many cats are there in the picture ?,1,2,Numeric,gpt-4o,1
+image_0423.jpg,Is she wearing a long hat ?,Yes,No,Yes/No,gpt-4o,No.
+image_0424.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0425.jpg,how many cats are there in the picture ?,1,2,Numeric,gpt-4o,1
+image_0426.jpg,Do you see a man and two dogs ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0427.jpg,Do you see the man's face ?,Yes,No,Yes/No,gpt-4o,No.
+image_0428.jpg,Can you see the tail of the dog on the right ?,No,Yes,Yes/No,gpt-4o,No
+image_0429.jpg,Do you see socks in the picture ?,Yes,No,Yes/No,gpt-4o,No
+image_0430.jpg,Can you see the left hand of the baby ?,Yes,No,Yes/No,gpt-4o,No
+image_0431.jpg,Can you see the legs of lady in blue jacket ?,Yes,No,Yes/No,gpt-4o,No.
+image_0432.jpg,Can you see the shadow of the glass ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0433.jpg,Can you see an animal in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0434.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0435.jpg,Can you see an animal in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0436.jpg,Can you see an animal in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0437.jpg,Does he have spikes on his hair?,Yes,No,Yes/No,gpt-4o,No
+image_0438.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0439.jpg,Is the man at the back with long beard spreading his hand ?,Yes,No,Yes/No,gpt-4o,No
+image_0440.jpg,Is anyone wearing a long rose dress ?,Yes,No,Yes/No,gpt-4o,No
+image_0441.jpg,Is the man wearing the shoes ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0442.jpg,Can you see an animal in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0443.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0444.jpg,Can you see an animal in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0445.jpg,Can you see skirt of the girl with spectacles ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0446.jpg,Are the legs of woman in centre visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0447.jpg,Is the woman wearing shoes ?,Yes,No,Yes/No,gpt-4o,No
+image_0448.jpg,How many people can you see in the centre of the picture ?,1,2,Numeric,gpt-4o,2
+image_0449.jpg,How many people can you see in the picture ?,2,3,Numeric,gpt-4o,2
+image_0450.jpg,Can you see the cats body ?,Yes,No,Yes/No,gpt-4o,No.
+image_0451.jpg,How many people can you see in the centre of the picture ?,1,2,Numeric,gpt-4o,1
+image_0452.jpg,How many cats do you see in this picture ?,1,2,Numeric,gpt-4o,2
+image_0453.jpg,Can you see a person in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0454.jpg,How many animals do you see in the centre of the image ?,1,2,Numeric,gpt-4o,1
+image_0455.jpg,Can you see a cat in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0456.jpg,Can you see a person in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0457.jpg,Are the legs of the blonde girl visible ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0458.jpg,How many people are there in this picture ?,2,3,Numeric,gpt-4o,2
+image_0459.jpg,How many people are there in this picture ?,1,2,Numeric,gpt-4o,2
+image_0460.jpg,How many cats can you see in the picture?,1,2,Numeric,gpt-4o,1
+image_0461.jpg,Can you see the player's head ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0462.jpg,How many dogs can you see in the picture?,1,2,Numeric,gpt-4o,1
+image_0463.jpg,Is the hand of the person on the right on the shoulder of the girl on the left?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0464.jpg,Can you see the legs of the woman in the picture ?,Yes,No,Yes/No,gpt-4o,No.
+image_0465.jpg,Can you see the hand of man's wearing check shirt ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0466.jpg,Can you see the legs of the man's wearing coat ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0467.jpg,Do you see a man ?,Yes,No,Yes/No,gpt-4o,No.
+image_0468.jpg,Do you see a man's face in the picture ?,Yes,No,Yes/No,gpt-4o,No
+image_0469.jpg,How many people can you see in the picture ?,1,2,Numeric,gpt-4o,1
+image_0470.jpg,Do you see the tyres of the vehicle ?,Yes,No,Yes/No,gpt-4o,No
+image_0471.jpg,Can you see the both legs of the lad wearing black top?,Yes,No,Yes/No,gpt-4o,No.
+image_0472.jpg,Can you see any of the dog's legs completely ?,Yes,No,Yes/No,gpt-4o,No.
+image_0473.jpg,How many fingers is the girl in red showing ?,3,2,Numeric,gpt-4o,2
+image_0474.jpg,Can you see the tail of wolf on right ?,No,Yes,Yes/No,gpt-4o,No
+image_0475.jpg,How many people can you see in this picture ?,1,2,Numeric,gpt-4o,1
+image_0476.jpg,Can you see a cat in this picture ?,Yes,No,Yes/No,gpt-4o,No
+image_0477.jpg,How many cows are in this picture ?,1,2,Numeric,gpt-4o,1
+image_0478.jpg,Can you see a log of wood in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0479.jpg,Can you see the women's face in this picture ?,Yes,No,Yes/No,gpt-4o,No.
+image_0480.jpg,Can you see the chair ?,No,Yes,Yes/No,gpt-4o,No
+image_0481.jpg,How many people can you see in the picture ?,1,2,Numeric,gpt-4o,2
+image_0482.jpg,Do you see a man and cat ?,No,Yes,Yes/No,gpt-4o,Yes
+image_0483.jpg,Do you see a women and cat ?,No,Yes,Yes/No,gpt-4o,No
+image_0484.jpg,Can you see the man's eyes ?,Yes,No,Yes/No,gpt-4o,No
+image_0485.jpg,Do you see the man and dog ?,No,Yes,Yes/No,gpt-4o,Yes
+image_0486.jpg,Can you see the person's face ?,Yes,No,Yes/No,gpt-4o,No
+image_0487.jpg,Can you see the left hand of girl in black dress ?,Yes,No,Yes/No,gpt-4o,No.
+image_0488.jpg,Is the man wearing a denim shorts ?,Yes,No,Yes/No,gpt-4o,No.
+image_0489.jpg,How many swans are there in the picture ?,1,2,Numeric,gpt-4o,2
+image_0490.jpg,how many animals are there in the picture ?,1,2,Numeric,gpt-4o,2
+image_0491.jpg,how many people are there near the blue table in the picture ?,2,1,Numeric,gpt-4o,2
+image_0492.jpg,Do you see an animal in the picture ?,Yes,No,Yes/No,gpt-4o,No
+image_0493.jpg,Is the girl in white dress at the centre standing ?,Yes,No,Yes/No,gpt-4o,No.
+image_0494.jpg,Do you see a person and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0495.jpg,Can you see the face of the bride ?,Yes,No,Yes/No,gpt-4o,No
+image_0496.jpg,Can you see the earrings of the girl ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0497.jpg,Can you see the kid's face ?,Yes,No,Yes/No,gpt-4o,No.
+image_0498.jpg,Can you see the head of the person in purple shirt ?,Yes,No,Yes/No,gpt-4o,No
+image_0499.jpg,how many people are there in the picture ?,1,2,Numeric,gpt-4o,2
+image_0500.jpg,Are those two guys holding hands?,Yes,No,Yes/No,gpt-4o,No.
+image_0501.jpg,Can you see the right hand of the person standing in the middle?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0502.jpg,How many people do you see in the picture ?,2,1,Numeric,gpt-4o,1
+image_0503.jpg,Is the guy wearing a hat ?,Yes,No,Yes/No,gpt-4o,No.
+image_0504.jpg,Can you seen the head of the person standing at the back ?,Yes,No,Yes/No,gpt-4o,No.
+image_0505.jpg,Can you see the left arm of the guy with sunglasses on the left?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0506.jpg,Can you see the face of the lady?,Yes,No,Yes/No,gpt-4o,No
+image_0507.jpg,How many goats are there in this picture ?,1,2,Numeric,gpt-4o,2
+image_0508.jpg,Can you see the left hand of women in blue dress ?,Yes,No,Yes/No,gpt-4o,No.
+image_0509.jpg,Is the back leg bent for the lady in front ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0510.jpg,Has the women tied her hair in the form of a bun in this picture?,Yes,No,Yes/No,gpt-4o,No.
+image_0511.jpg,Can you see the head of the dog with large black patch ?,Yes,No,Yes/No,gpt-4o,No
+image_0512.jpg,Do you see the lady's face ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0513.jpg,Can you see the right hand of the girl in the middle wearing a pink jacket?,Yes,No,Yes/No,gpt-4o,No.
+image_0514.jpg,Are the woman's legs visible ?,Yes,No,Yes/No,gpt-4o,No
+image_0515.jpg,Can you see the legs of the girl sitting ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0516.jpg,How many people are there in this picture ?,1,2,Numeric,gpt-4o,1
+image_0517.jpg,Can you see the legs of the person wearing hat in the centre ?,Yes,No,Yes/No,gpt-4o,No.
+image_0518.jpg,Is the man's right hand on the girl's shoulder?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0519.jpg,Is the girl wearing black top wearing cream colour pants  ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0520.jpg,Do you see man's legs ?,Yes,No,Yes/No,gpt-4o,No
+image_0521.jpg,Do you see the man's bare legs,Yes,No,Yes/No,gpt-4o,No
+image_0522.jpg,Can you see the face of the person?,Yes,No,Yes/No,gpt-4o,No
+image_0523.jpg,How many people are there in this picture?,2,3,Numeric,gpt-4o,2
+image_0524.jpg,Can you see the kid's face ?,No,Yes,Yes/No,gpt-4o,No.
+image_0525.jpg,Can you see both hands of the girl in the back?,Yes,No,Yes/No,gpt-4o,No
+image_0526.jpg,Are the girl's eyes visible ?,Yes,No,Yes/No,gpt-4o,No
+image_0527.jpg,Is the cat's mouth visible?,Yes,No,Yes/No,gpt-4o,No
+image_0528.jpg,Is the girl's body visible?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0529.jpg,Can you see the both of the woman's legs?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0530.jpg,Do you see the right hand of the woman standing on the left ?,Yes,No,Yes/No,gpt-4o,No.
+image_0531.jpg,Can you see the fingers of the man's left hand?,Yes,No,Yes/No,gpt-4o,No.
+image_0532.jpg,Is the girl wearing netted high knee stockings also wearing a blue jacket?,Yes,No,Yes/No,gpt-4o,No.
+image_0533.jpg,Can you see the guy's long beard?,Yes,No,Yes/No,gpt-4o,No.
+image_0534.jpg,Is the child holding the phone ?,Yes,No,Yes/No,gpt-4o,No.
+image_0535.jpg,Does the man at the back have his hands on the girl's shoulder?,Yes,No,Yes/No,gpt-4o,No.
+image_0536.jpg,Is man wearing white pants ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0537.jpg,How many rhinoceros do you see in this picture ?,1,2,Numeric,gpt-4o,2
+image_0538.jpg,Is the posterior of the woman in white visible from the rear?,Yes,No,Yes/No,gpt-4o,No
+image_0539.jpg,How many people do you see in the photo ?,1,2,Numeric,gpt-4o,2
+image_0540.jpg,Is the lady's legs visible?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0541.jpg,Do you see the girl's body in the picture?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0542.jpg,Do you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0543.jpg,Do you see the kid and dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0544.jpg,Is the lower half of the person's body visible?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0545.jpg,Can you see a person's head in the picture ?,Yes,No,Yes/No,gpt-4o,No
+image_0546.jpg,Do you see the girl's skirt ?,Yes,No,Yes/No,gpt-4o,No
+image_0547.jpg,Is the man in the centre wearing hat in this picture ?,Yes,No,Yes/No,gpt-4o,No.
+image_0548.jpg,Is the girl's left hand lifted up ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0549.jpg,Is the girl wearing jeans ?,Yes,No,Yes/No,gpt-4o,No
+image_0550.jpg,Do you see the Woman and Dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0551.jpg,Is any person in the photo jumping ?,Yes,No,Yes/No,gpt-4o,No.
+image_0552.jpg,Do you see a bird in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0553.jpg,Is the individual in the center attired in any clothing?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0554.jpg,Does the head belongs to the cow on the left?,Yes,No,Yes/No,gpt-4o,No
+image_0555.jpg,How many cows do you see ?,1,2,Numeric,gpt-4o,1
+image_0556.jpg,Can you see a man in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0557.jpg,Is the man behind her is holding her shoulder  ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0558.jpg,how many dogs are there in the picture ?,1,2,Numeric,gpt-4o,2
+image_0559.jpg,Are the horns pointed and reaching the leaves in the tree ?,Yes,No,Yes/No,gpt-4o,No.
+image_0560.jpg,Can you see the face of man in suit ?,Yes,No,Yes/No,gpt-4o,No.
+image_0561.jpg,How many people are there in the photo ?,1,2,Numeric,gpt-4o,1
+image_0562.jpg,can you see the face of the child lying on the bed ?,Yes,No,Yes/No,gpt-4o,No.
+image_0563.jpg,Are both legs of the woman in the centre visible?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0564.jpg,How many people are there in this picture ?,1,2,Numeric,gpt-4o,1
+image_0565.jpg,How many people are there in this picture ?,2,3,Numeric,gpt-4o,3
+image_0566.jpg,Do you see the man and dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0567.jpg,Do you see the kid's face ?,Yes,No,Yes/No,gpt-4o,No
+image_0568.jpg,How many people are there in this picture ?,3,4,Numeric,gpt-4o,3
+image_0569.jpg,Does the girl have spike hair style?,Yes,No,Yes/No,gpt-4o,No.
+image_0570.jpg,How many people can you see in the picture ?,1,2,Numeric,gpt-4o,2
+image_0571.jpg,Can you see the kid's legs ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0572.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0573.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0574.jpg,How many cats are in this picture ?,1,2,Numeric,gpt-4o,2
+image_0575.jpg,Can you see the woman's right hand ?,Yes,No,Yes/No,gpt-4o,No.
+image_0576.jpg,Is the person sitting in the centre wearing yellow pants ?,Yes,No,Yes/No,gpt-4o,No.
+image_0577.jpg,Can you see the woman's hand ?,Yes,No,Yes/No,gpt-4o,No.
+image_0578.jpg,Is the man being lifted?,Yes,No,Yes/No,gpt-4o,No.
+image_0579.jpg,Is the bald guy wearing a pink shirt and blue jeans ?,Yes,No,Yes/No,gpt-4o,No.
+image_0580.jpg,Is the woman's right leg visible,Yes,No,Yes/No,gpt-4o,No.
+image_0581.jpg,Is the man's body visible?,Yes,No,Yes/No,gpt-4o,No
+image_0582.jpg,How many dogs can you see ?,1,2,Numeric,gpt-4o,1
+image_0583.jpg,Is the right hand of the person on the right-most side visible?,Yes,No,Yes/No,gpt-4o,No
+image_0584.jpg,Is the gir'ls leg amuputated ?,Yes,No,Yes/No,gpt-4o,No
+image_0585.jpg,How many dogs do you see in the picture ?,1,2,Numeric,gpt-4o,2
+image_0586.jpg,Do you see a cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0587.jpg,How many people can you see in the picture ?,1,2,Numeric,gpt-4o,2
+image_0588.jpg,How many people can you see in the picture ?,1,2,Numeric,gpt-4o,1
+image_0589.jpg,How many legs of the woman are visible in this picture ?,3,2,Numeric,gpt-4o,2
+image_0590.jpg,How many people do you see in the picture?,1,2,Numeric,gpt-4o,1
+image_0591.jpg,Does the person on the back has his hand on the shoulder of the person on right?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0592.jpg,How many dogs do you see in the picture?,1,2,Numeric,gpt-4o,2
+image_0593.jpg,Is the size of the teeth of the girl on the left larger?,Yes,No,Yes/No,gpt-4o,I'm unable to provide an answer based on the image.
+image_0594.jpg,Is the lady wearing a blue top?,Yes,No,Yes/No,gpt-4o,No.
+image_0595.jpg,How many tigers do you see ?,2,1,Numeric,gpt-4o,1
+image_0596.jpg,Is the person's forearm visible?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0597.jpg,Is the dog's tail on the couch ?,Yes,No,Yes/No,gpt-4o,No.
+image_0598.jpg,How many dogs can you see in the picture?,1,2,Numeric,gpt-4o,2
+image_0599.jpg,Can you see the face of the person wearing a striped coat ?,Yes,No,Yes/No,gpt-4o,No.
+image_0600.jpg,How many people do you see in the picture,1,2,Numeric,gpt-4o,1
+image_0601.jpg,Are the legs of the lady in the red dress visible?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0602.jpg,Is the dog's body visible?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0603.jpg,Do you see the girl's body in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0604.jpg,Can you see the man's left hand ?,Yes,No,Yes/No,gpt-4o,No
+image_0605.jpg,Is the bride doing splits?,Yes,No,Yes/No,gpt-4o,No
+image_0606.jpg,How many people there are there in the picture ?,2,3,Numeric,gpt-4o,3
+image_0607.jpg,Do you see any bird in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0608.jpg,Do you see a cat?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0609.jpg,Can you see the bird ?,No,Yes,Yes/No,gpt-4o,Yes
+image_0610.jpg,Is the guy on the left wearing blue cap holding the guy on the right facing him ?,Yes,No,Yes/No,gpt-4o,No.
+image_0611.jpg,Can you see a dog in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0612.jpg,Can you see a cat in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0613.jpg,how many ducks are there in the picture ?,1,2,Numeric,gpt-4o,2
+image_0614.jpg,Can you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0615.jpg,Is there a bride in this photo?,Yes,No,Yes/No,gpt-4o,No.
+image_0616.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0617.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0618.jpg,Can you see the left hand of the kid ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0619.jpg,How many cats are in this picture ?,1,2,Numeric,gpt-4o,1
+image_0620.jpg,Is the woman's face visble ?,Yes,No,Yes/No,gpt-4o,No
+image_0621.jpg,Is the man wearing shoes ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0622.jpg,Is the player wearing full sleeve jersey celebrating ?,Yes,No,Yes/No,gpt-4o,Yes
+image_0623.jpg,Can you see the head of the person wearing a purple jacket ?,Yes,No,Yes/No,gpt-4o,No.
+image_0624.jpg,How many cats are there in this picture ?,1,2,Numeric,gpt-4o,2
+image_0625.jpg,How many people can you see in the middle ?,2,3,Numeric,gpt-4o,2
+image_0626.jpg,Is the man hugging himself  ?,Yes,No,Yes/No,gpt-4o,No.
+image_0627.jpg,Does the person on the right has his hand on the shoulder of the person in the middle?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0628.jpg,Can you see the baby's left hand ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0629.jpg,How many dog's can you see in the image ?,2,3,Numeric,gpt-4o,3
+image_0630.jpg,Can you see the head of the guy in white coat ?,Yes,No,Yes/No,gpt-4o,Yes
+image_0631.jpg,How many cats can you see in the image ?,2,3,Numeric,gpt-4o,3
+image_0632.jpg,Can you see the hands of the guy wearing yellow jersey?,Yes,No,Yes/No,gpt-4o,No.
+image_0633.jpg,Can you see the dog's eyes ?,Yes,No,Yes/No,gpt-4o,No.
+image_0634.jpg,Do you see a cat in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0635.jpg,Can you see the man's leg ?,Yes,No,Yes/No,gpt-4o,No.
+image_0636.jpg,How many cats are in this picture ?,1,2,Numeric,gpt-4o,2
+image_0637.jpg,Can you see lower portion of lady wearing brown shirt ?,No,Yes,Yes/No,gpt-4o,No
+image_0638.jpg,Is the right hand of the person standing on the right visible?,Yes,No,Yes/No,gpt-4o,No
+image_0639.jpg,Is the man's leg amputated?,Yes,No,Yes/No,gpt-4o,No.
+image_0640.jpg,Can you see the face of the girl holding the glass ?,Yes,No,Yes/No,gpt-4o,No.
+image_0641.jpg,Do you see a bird ?,No,Yes,Yes/No,gpt-4o,No.
+image_0642.jpg,Can you see a bird ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0643.jpg,Can you see a dog in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0644.jpg,Can you see the man's left hand ?,Yes,No,Yes/No,gpt-4o,No.
+image_0645.jpg,Does the boy have a ponytail ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0646.jpg,Is the face of the person wearing black coat visible?,Yes,No,Yes/No,gpt-4o,No.
+image_0647.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0648.jpg,Do you see an owl ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0649.jpg,Can you see a bird in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0650.jpg,Is there a cat in this photo?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0651.jpg,Can you see a bird in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0652.jpg,Can you see an animal in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0653.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0654.jpg,Do you see any bird in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0655.jpg,Can you see a bird in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0656.jpg,Can you see a dog in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0657.jpg,Can you see a bird in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0658.jpg,Do you see a butterrfly?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0659.jpg,Do you see both face and legs of the same person?,Yes,No,Yes/No,gpt-4o,No
+image_0660.jpg,Do you see an owl ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0661.jpg,How many cats can you see in the picture ?,1,2,Numeric,gpt-4o,2
+image_0662.jpg,Can you see a bird in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0663.jpg,Can you see a bird in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0664.jpg,Do you see a dog ?,No,Yes,Yes/No,gpt-4o,No
+image_0665.jpg,Can you see a woman's head ?,Yes,No,Yes/No,gpt-4o,No
+image_0666.jpg,Do you see a rabbit ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0667.jpg,Do you see the bird ?,Yes,No,Yes/No,gpt-4o,No
+image_0668.jpg,Do you see a cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0669.jpg,Do you see the man and cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0670.jpg,Do you see the man and dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0671.jpg,How man cats do you see ?,1,2,Numeric,gpt-4o,2
+image_0672.jpg,How many people do you see in the picture?,1,2,Numeric,gpt-4o,"I'm sorry, I can't assist with this."
+image_0673.jpg,Do you see the man and dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0674.jpg,Do you see the man and cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0675.jpg,How man poeples do you see in the picture in the centre ?,2,3,Numeric,gpt-4o,2
+image_0676.jpg,Is the woman having something on top of her head ?,Yes,No,Yes/No,gpt-4o,No.
+image_0677.jpg,Is the face of woman wearing red dress visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0678.jpg,Can you see the complete man ?,Yes,No,Yes/No,gpt-4o,No
+image_0679.jpg,Is the right hand of the player wearing yellow jersey and close to the blue jersey extending to left end of picture ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0680.jpg,Can you see the woman's leg ?,Yes,No,Yes/No,gpt-4o,No.
+image_0681.jpg,Is the man holding the blue paper ?,Yes,No,Yes/No,gpt-4o,No.
+image_0682.jpg,Is thje person wearing both shoes ?,Yes,No,Yes/No,gpt-4o,No.
+image_0683.jpg,Can you see the person face completely ?,Yes,No,Yes/No,gpt-4o,No.
+image_0684.jpg,Is the face of woman's sitting in train visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0685.jpg,Is the person's eyes visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0686.jpg,Is the person wearing both shoes ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0687.jpg,Does the man in the centre have something on his head ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0688.jpg,Do you see a woman and horse ?,No,Yes,Yes/No,gpt-4o,No
+image_0689.jpg,Is the person extending to the top half of the image ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0690.jpg,Is the woman sitting at the back wearing white socks ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0691.jpg,Do you observe the individuals without the appropriate swimwear?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0692.jpg,Do you see the woman and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0693.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0694.jpg,Do you see a dog with more than normal number of teeths present?,Yes,No,Yes/No,gpt-4o,No.
+image_0695.jpg,Do you see the woman and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0696.jpg,Can you see face of the woman on the right in black dress clearly ?,Yes,No,Yes/No,gpt-4o,No.
+image_0697.jpg,Can you see the face of woman in blue dress ?,Yes,No,Yes/No,gpt-4o,No.
+image_0698.jpg,Is the truck carrying anything ?,Yes,No,Yes/No,gpt-4o,No.
+image_0699.jpg,Can you see the girl's face ?,Yes,No,Yes/No,gpt-4o,No.
+image_0700.jpg,Is the face of man taking recieving the coffee visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0701.jpg,Does the person in centre of the photo have a moustache ?,Yes,No,Yes/No,gpt-4o,No.
+image_0702.jpg,Can you see the edge shoulder of the person in the centre?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0703.jpg,How many animals do you see in the picture ?,2,1,Numeric,gpt-4o,1
+image_0704.jpg,How many cats do you see ?,1,2,Numeric,gpt-4o,2
+image_0705.jpg,Do you see a cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0706.jpg,Do you see a man on the road,Yes,No,Yes/No,gpt-4o,No
+image_0707.jpg,Do you see a person in the picture,Yes,No,Yes/No,gpt-4o,No
+image_0708.jpg,Can you see a cat's body ?,Yes,No,Yes/No,gpt-4o,No.
+image_0709.jpg,Do you see the man and an animal ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0710.jpg,Do you see a cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0711.jpg,Do you see an animal ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0712.jpg,Do you see a cat?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0713.jpg,Can you see the skirt of woman on right ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0714.jpg,Can you see the head of the guy sitting at the back on a black chair?,Yes,No,Yes/No,gpt-4o,No.
+image_0715.jpg,Is the lady with bob hair wearing a blue top ?,Yes,No,Yes/No,gpt-4o,No.
+image_0716.jpg,Can you see a truck with animal picture ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0717.jpg,How many cats do you see in the picture?,2,3,Numeric,gpt-4o,2
+image_0718.jpg,can you see the woman's toes ?,Yes,No,Yes/No,gpt-4o,No
+image_0719.jpg,Do you see a cat in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0720.jpg,Can you see the legs of the man on right ?,Yes,No,Yes/No,gpt-4o,No.
+image_0721.jpg,Do you see the woman and cat?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0722.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0723.jpg,Do you see the Woman and cat?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0724.jpg,Do the two legs in the center belong to the female on the right?,Yes,No,Yes/No,gpt-4o,No
+image_0725.jpg,How many dogs do you see in the picture ?,1,2,Numeric,gpt-4o,2
+image_0726.jpg,Can you see the cat's lips ?,Yes,No,Yes/No,gpt-4o,No.
+image_0727.jpg,How many people can you see in the picture ?,1,2,Numeric,gpt-4o,2
+image_0728.jpg,Do you see a human's foot ?,Yes,No,Yes/No,gpt-4o,No.
+image_0729.jpg,Can you see the women's right hand ?,Yes,No,Yes/No,gpt-4o,No
+image_0730.jpg,How many people can you see in the picture ?,1,2,Numeric,gpt-4o,1
+image_0731.jpg,Does the guy in the centre have hair in round form ?,Yes,No,Yes/No,gpt-4o,No.
+image_0732.jpg,Can you see the player's right hand ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0733.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0734.jpg,Are the legs of the women visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0735.jpg,Can you see the women in the pool ?,Yes,No,Yes/No,gpt-4o,No
+image_0736.jpg,Do you see the man and dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0737.jpg,Does the man in center has his hands on the shoulder of the girl in centre?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0738.jpg,Is the baby's right hand visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0739.jpg,Is the woman's amputated left hand visible ?,Yes,No,Yes/No,gpt-4o,No
+image_0740.jpg,Is the guy in middle playing the guiitar?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0741.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0742.jpg,Is the man's head visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0743.jpg,Is the body of woman on left completely visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0744.jpg,Do you see the person and dog?,No,Yes,Yes/No,gpt-4o,No
+image_0745.jpg,Do you see the woman and dog?,No,Yes,Yes/No,gpt-4o,Yes
+image_0746.jpg,How many animals do you see in the picture ?,1,2,Numeric,gpt-4o,2
+image_0747.jpg,Do you see the woman and cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0748.jpg,Can you see the woman's face ?,Yes,No,Yes/No,gpt-4o,No
+image_0749.jpg,Can you see a lion in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0750.jpg,Do you see the slide next to the man's shorts ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0751.jpg,Does the person on the left has his hands on the shoulder of the person on the right?,Yes,No,Yes/No,gpt-4o,No.
+image_0752.jpg,Is the two spreaded legs belong to the same girl ?,Yes,No,Yes/No,gpt-4o,No.
+image_0753.jpg,Are the legs of lady in centre extend after the calf ?,Yes,No,Yes/No,gpt-4o,No.
+image_0754.jpg,Is the giraffe's head visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0755.jpg,Can you see the head of the girl in this picture ?,Yes,No,Yes/No,gpt-4o,No.
+image_0756.jpg,Do you see a woman and horse ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0757.jpg,How many people are there in this picture ?,1,2,Numeric,gpt-4o,2
+image_0758.jpg,How many people are there in this picture ?,1,2,Numeric,gpt-4o,1
+image_0759.jpg,Can you see the person's legs ?,Yes,No,Yes/No,gpt-4o,No
+image_0760.jpg,Do you see the person and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0761.jpg,Can you see the body of man on right ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0762.jpg,Do you see the dog ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0763.jpg,Do you see the lady and black dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0764.jpg,How many dogs can you see ?,1,2,Numeric,gpt-4o,1
+image_0765.jpg,Is the man spitting water ?,Yes,No,Yes/No,gpt-4o,No.
+image_0766.jpg,Can you see the man's body ?,Yes,No,Yes/No,gpt-4o,No.
+image_0767.jpg,Do you see the man and cat?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0768.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0769.jpg,How man birds are there in the picture ?,1,2,Numeric,gpt-4o,2
+image_0770.jpg,Can you see the bird ?,No,Yes,Yes/No,gpt-4o,No
+image_0771.jpg,Can you see the face of woman sitting on chair ?,Yes,No,Yes/No,gpt-4o,No
+image_0772.jpg,Is the woman on the right holding the man's tie?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0773.jpg,Can you see any of woman's toes ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0774.jpg,Can you see a bird in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0775.jpg,Can you see the front grill of the car in centre ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0776.jpg,Do you see the man and cat?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0777.jpg,Do you see the woman and cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0778.jpg,Do you see the man and cat?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0779.jpg,Do you see the man and cat?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0780.jpg,Do you see the woman and cat ?,No,Yes,Yes/No,gpt-4o,Yes
+image_0781.jpg,Do you see the woman and cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0782.jpg,Do you see the man and cat?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0783.jpg,Do you see the woman and cat ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0784.jpg,Are both legs of the girl wearing white t-shirt viisble?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0785.jpg,Does the guy in the blue shirt embracing around everyone around him?,Yes,No,Yes/No,gpt-4o,No.
+image_0786.jpg,Do you see a hand ?,Yes,No,Yes/No,gpt-4o,No
+image_0787.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes
+image_0788.jpg,Do you see the woman and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0789.jpg,Is the woman's torso visible?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0790.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0791.jpg,Can you see the kid's dress ?,Yes,No,Yes/No,gpt-4o,No
+image_0792.jpg,Is the posterior of the player on the left visible?,No,Yes,Yes/No,gpt-4o,No
+image_0793.jpg,Do you see the man and goat?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0794.jpg,How many people can you see in this picture ?,1,2,Numeric,gpt-4o,1
+image_0795.jpg,Is the man wearing pants ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0796.jpg,Is the full face of the person visible?,Yes,No,Yes/No,gpt-4o,No.
+image_0797.jpg,Are the legs of the person in checked shirt and sitting visible?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0798.jpg,Is the socks of the player striped ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0799.jpg,How many people can you see in this picture ?,1,2,Numeric,gpt-4o,2
+image_0800.jpg,How many people can you see in this picture ?,2,3,Numeric,gpt-4o,3
+image_0801.jpg,Is the legs of the person wearing pink hoodie visible?,Yes,No,Yes/No,gpt-4o,No.
+image_0802.jpg,How many people can you see in this picture ?,1,2,Numeric,gpt-4o,1
+image_0803.jpg,Is the person wearing blue cap carrying the person with checked tshirt in his arms?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0804.jpg,Can you see the left hand of the guy in yellow tshirt ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0805.jpg,How many people are in the picture ?,2,3,Numeric,gpt-4o,2
+image_0806.jpg,Do you see the man and pig?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0807.jpg,How many people can you see in this picture ?,1,2,Numeric,gpt-4o,3
+image_0808.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0809.jpg,How many people can you see in this picture ?,1,2,Numeric,gpt-4o,2
+image_0810.jpg,How many cats can you see in the picture ?,1,2,Numeric,gpt-4o,2
+image_0811.jpg,Is the woman on the left sitting on a chair?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0812.jpg,Can you see the sleeping person's face ?,Yes,No,Yes/No,gpt-4o,No.
+image_0813.jpg,Can you see the lady's gown ?,Yes,No,Yes/No,gpt-4o,No.
+image_0814.jpg,Do you see the man and Eagle ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0815.jpg,Do you see the woman and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0816.jpg,Is the person wearing something on the head ?,Yes,No,Yes/No,gpt-4o,No
+image_0817.jpg,Is the person wearing something on the head ?,Yes,No,Yes/No,gpt-4o,No.
+image_0818.jpg,Is there any insect in the picture ?,No,Yes,Yes/No,gpt-4o,No.
+image_0819.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0820.jpg,Can you see a man between the girls in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0821.jpg,How many people can you see in the picture ?,2,3,Numeric,gpt-4o,3
+image_0822.jpg,How many people are there in the sand ?,5,6,Numeric,gpt-4o,4
+image_0823.jpg,Can you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0824.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0825.jpg,Is the person wearing a skirt ?,Yes,No,Yes/No,gpt-4o,No
+image_0826.jpg,Can you see the animals body and it's head ?,Yes,No,Yes/No,gpt-4o,No.
+image_0827.jpg,How many people can you see in the picture ?,2,3,Numeric,gpt-4o,3
+image_0828.jpg,Is the man holding an ice-cream ?,Yes,No,Yes/No,gpt-4o,No.
+image_0829.jpg,Does the person in the picture have a moustache ?,Yes,No,Yes/No,gpt-4o,No.
+image_0830.jpg,How many giraffe can you see in the picture ?,1,2,Numeric,gpt-4o,1
+image_0831.jpg,How many cats can you see in the picture?,1,2,Numeric,gpt-4o,2
+image_0832.jpg,Is the foal have a long hair on head ?,Yes,No,Yes/No,gpt-4o,No
+image_0833.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0834.jpg,How many people are there in this picture ?,1,2,Numeric,gpt-4o,1
+image_0835.jpg,Is the leg of the kid at the back visible ?,Yes,No,Yes/No,gpt-4o,No
+image_0836.jpg,Is the woman having something on the head ?,Yes,No,Yes/No,gpt-4o,No.
+image_0837.jpg,Is the anterior aspect of the woman's body visible?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0838.jpg,How many dogs can you see in the picture?,2,3,Numeric,gpt-4o,2
+image_0839.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0840.jpg,Can you see a leopard in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0841.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0842.jpg,Do you see a man ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0843.jpg,How many people can you see in the picture ?,1,2,Numeric,gpt-4o,2
+image_0844.jpg,Can you see the seat of the cyle ?,No,Yes,Yes/No,gpt-4o,No
+image_0845.jpg,Do you see lips ?,Yes,No,Yes/No,gpt-4o,No
+image_0846.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0847.jpg,Can you see an actual owl in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0848.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0849.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0850.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0851.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0852.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0853.jpg,Is the woman wearing a black top visible?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0854.jpg,Is the woman's physique visible?,Yes,No,Yes/No,gpt-4o,No.
+image_0855.jpg,Did you see a fish in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0856.jpg,Is the person on the left wearing a crown ?,Yes,No,Yes/No,gpt-4o,No.
+image_0857.jpg,Is the dog's head visible ?,Yes,No,Yes/No,gpt-4o,No
+image_0858.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0859.jpg,Is the dog wearing a ballerina dress ?,Yes,No,Yes/No,gpt-4o,No
+image_0860.jpg,Do you see the woman's face?,No,Yes,Yes/No,gpt-4o,No.
+image_0861.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0862.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes
+image_0863.jpg,How many animals and birds do you see in the picture ?,1,2,Numeric,gpt-4o,1
+image_0864.jpg,Does the kid have black ears?,Yes,No,Yes/No,gpt-4o,No.
+image_0865.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes
+image_0866.jpg,Does the lady have a pot belly?,Yes,No,Yes/No,gpt-4o,No.
+image_0867.jpg,Does the deer at centre have excessive amount of antellers reaching almost the top of the image ?,Yes,No,Yes/No,gpt-4o,No
+image_0868.jpg,Can you see the cat's face properly ?,Yes,No,Yes/No,gpt-4o,No
+image_0869.jpg,Do you see a dog and a lady?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0870.jpg,Can you see the cat's legs ?,Yes,No,Yes/No,gpt-4o,No
+image_0871.jpg,Can you see the both eyes of the person ?,Yes,No,Yes/No,gpt-4o,No.
+image_0872.jpg,Is the man's head visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0873.jpg,Do you see a diver's head ?,Yes,No,Yes/No,gpt-4o,No.
+image_0874.jpg,How many cats are in this picture ?,1,2,Numeric,gpt-4o,2
+image_0875.jpg,Is the people in the centre wearing swimwear in the lower half of the body ?,Yes,No,Yes/No,gpt-4o,No.
+image_0876.jpg,Did you see a bird in the picture ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0877.jpg,Can you see the bird's legs ?,Yes,No,Yes/No,gpt-4o,No
+image_0878.jpg,Is the head of the person standing on the right visible?,Yes,No,Yes/No,gpt-4o,No
+image_0879.jpg,Do you see a bird in picture ?,Yes,No,Yes/No,gpt-4o,No
+image_0880.jpg,Does the man have spikes hairstyle ?,Yes,No,Yes/No,gpt-4o,No.
+image_0881.jpg,DId you see a dog and man in the car?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0882.jpg,Is the person with black beard in the center holding the left person's shoulder ?,Yes,No,Yes/No,gpt-4o,No.
+image_0883.jpg,Can you see a toad and a woman ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0884.jpg,Does the face of lady in the centre ?,Yes,No,Yes/No,gpt-4o,No.
+image_0885.jpg,Can you see the face of person wearing blue jacket ?,Yes,No,Yes/No,gpt-4o,No
+image_0886.jpg,Can you see the man's face ?,Yes,No,Yes/No,gpt-4o,No
+image_0887.jpg,Can you see the face of the man in centre ?,Yes,No,Yes/No,gpt-4o,No
+image_0888.jpg,Does the person on the right has his hands on the shoulder of the woman standing beside him?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0889.jpg,Do you see the man and dog?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0890.jpg,Is the cat holding the phone ?,Yes,No,Yes/No,gpt-4o,No
+image_0891.jpg,Can you see the girl's legs,Yes,No,Yes/No,gpt-4o,No.
+image_0892.jpg,Can you see the man's face ?,Yes,No,Yes/No,gpt-4o,No.
+image_0893.jpg,Can you see the bottle ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0894.jpg,how many people are there in the picture ?,1,2,Numeric,gpt-4o,1
+image_0895.jpg,Is the woman having anything on head ?,Yes,No,Yes/No,gpt-4o,No
+image_0896.jpg,How many animals are there in the picture?,2,3,Numeric,gpt-4o,3
+image_0897.jpg,Is the woman's abdomen visible?,Yes,No,Yes/No,gpt-4o,No
+image_0898.jpg,Did you see dogs ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0899.jpg,"Is the lower posterior portion of the woman's body, wearing pink, visible?",Yes,No,Yes/No,gpt-4o,Yes.
+image_0900.jpg,Is the girl wearing shorts ?,Yes,No,Yes/No,gpt-4o,No.
+image_0901.jpg,Can you see the girl's eyes ?,Yes,No,Yes/No,gpt-4o,No.
+image_0902.jpg,can you see the face of the girl in blue dress ?,Yes,No,Yes/No,gpt-4o,No.
+image_0903.jpg,Did you see a person in the image ?,Yes,No,Yes/No,gpt-4o,No
+image_0904.jpg,Does the dog in the centre with pink leash have long white paws?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0905.jpg,Does the man walking have long spiky hairstyle?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0906.jpg,Does the person in the middle wearing black jacket has a backpack on?,No,Yes,Yes/No,gpt-4o,No.
+image_0907.jpg,Can you see the hands of the woman standing at the back ?,Yes,No,Yes/No,gpt-4o,No.
+image_0908.jpg,Are the legs of the man wearing pink tshirt visible?,Yes,No,Yes/No,gpt-4o,No.
+image_0909.jpg,Can you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0910.jpg,Can you see the shorts of the person lying down wearing black shirt ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0911.jpg,Is the shorts of the kid wearing blue jacket predominantly black?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0912.jpg,Is the man wearing socks?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0913.jpg,Can you see a fish in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0914.jpg,Can you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0915.jpg,How many people can you seen in this picture ?,1,2,Numeric,gpt-4o,1
+image_0916.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0917.jpg,Can you see a cat in this picture?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0918.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0919.jpg,Is the lower portion of the woman's body visible?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0920.jpg,Is the lower portion of the woman's body visible?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0921.jpg,Can you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0922.jpg,How many dogs can you seen in this picture ?,1,2,Numeric,gpt-4o,1
+image_0923.jpg,Can you see a mountain leopard in this picture ?,No,Yes,Yes/No,gpt-4o,No
+image_0924.jpg,Is the top that the woman is wearing visible?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0925.jpg,Can you see a person and dog in the car ?,No,Yes,Yes/No,gpt-4o,No
+image_0926.jpg,Does the person have anything on his head?,Yes,No,Yes/No,gpt-4o,No.
+image_0927.jpg,Is the woman wearing grey jeans?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0928.jpg,Do you see a duck,No,Yes,Yes/No,gpt-4o,Yes.
+image_0929.jpg,Do you see the ball ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0930.jpg,Do you see the phone ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0931.jpg,Is it someone else's hand that is on the lady's shoulder?,Yes,No,Yes/No,gpt-4o,No.
+image_0932.jpg,Can you see the cycle's tyre ?,No,Yes,Yes/No,gpt-4o,No.
+image_0933.jpg,Can you see a dog in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0934.jpg,Can you see a cat in the picture ?,No,Yes,Yes/No,gpt-4o,No
+image_0935.jpg,How many cats do you see in the picture ?,3,4,Numeric,gpt-4o,4
+image_0936.jpg,Can you see the man's head ?,Yes,No,Yes/No,gpt-4o,No.
+image_0937.jpg,Is the man wearing conical hat ?,Yes,No,Yes/No,gpt-4o,No.
+image_0938.jpg,Can you see a dog in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0939.jpg,Can you see a cat in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0940.jpg,Can you see cat's head along with it's body ?,Yes,No,Yes/No,gpt-4o,No.
+image_0941.jpg,Do you see a cat in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0942.jpg,Does the guy have a pony tail hair ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0943.jpg,Is the man wearing printed pants ?,Yes,No,Yes/No,gpt-4o,No.
+image_0944.jpg,Is the woman's left arm visible ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0945.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0946.jpg,Are the legs of the woman visible?,Yes,No,Yes/No,gpt-4o,No.
+image_0947.jpg,Do you see a goat in the picture ?,No,Yes,Yes/No,gpt-4o,No.
+image_0948.jpg,Can you see the baby's right hand ?,Yes,No,Yes/No,gpt-4o,No.
+image_0949.jpg,Can you see the dog's mouth properly ?,Yes,No,Yes/No,gpt-4o,No.
+image_0950.jpg,Do you see both the people ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0951.jpg,Does he have a moustache ?,Yes,No,Yes/No,gpt-4o,No
+image_0952.jpg,Can you see the cat's head ?,Yes,No,Yes/No,gpt-4o,No
+image_0953.jpg,Did you see a brown cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0954.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0955.jpg,Is the bald person wearing blue jeans ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0956.jpg,Can you see a chair ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0957.jpg,How many cats can you see in this picture?,1,2,Numeric,gpt-4o,2
+image_0958.jpg,Is the girl's legs visible ?,No,Yes,Yes/No,gpt-4o,No
+image_0959.jpg,How many cats are there in this picture ?,1,2,Numeric,gpt-4o,1
+image_0960.jpg,How many camels do you see in the picture ?,1,2,Numeric,gpt-4o,1
+image_0961.jpg,how many cats are there in the picture ?,3,4,Numeric,gpt-4o,6
+image_0962.jpg,how many people are there in the picture ?,2,3,Numeric,gpt-4o,2
+image_0963.jpg,Can you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0964.jpg,Can you see the face and legs of the same man ?,Yes,No,Yes/No,gpt-4o,No
+image_0965.jpg,Can you see a bird in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0966.jpg,Can you see the legs of the girl wearing red dress?,Yes,No,Yes/No,gpt-4o,No.
+image_0967.jpg,Are the girl's eyes visible ?,Yes,No,Yes/No,gpt-4o,No
+image_0968.jpg,Can you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0969.jpg,Is the man's legs visible ?,Yes,No,Yes/No,gpt-4o,No.
+image_0970.jpg,Is the cat holding the pan ?,Yes,No,Yes/No,gpt-4o,No
+image_0971.jpg,Does the bird have horns ?,Yes,No,Yes/No,gpt-4o,No.
+image_0972.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0973.jpg,Can you see chair's left leg ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0974.jpg,Is the right hand of woman sitting visible,No,Yes,Yes/No,gpt-4o,Yes.
+image_0975.jpg,Is the kid's left hand visible ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0976.jpg,Can you see a man and a dog on the bike ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0977.jpg,Can you see the legs of the baby ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0978.jpg,Can you see a cat in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0979.jpg,Is the man holding the blue sheet with right hand ?,Yes,No,Yes/No,gpt-4o,No.
+image_0980.jpg,Does the fish and human arm in the left of the image ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0981.jpg,Can you see a car in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0982.jpg,Is there a person and dog in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0983.jpg,Do you see a cat in the picture ?,Yes,No,Yes/No,gpt-4o,No
+image_0984.jpg,Do you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0985.jpg,Can you see a bird in this picture ?,Yes,No,Yes/No,gpt-4o,No.
+image_0986.jpg,Is there a cat near in the centre of the image ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0987.jpg,Is there a kangaroo in picture ?,Yes,No,Yes/No,gpt-4o,No
+image_0988.jpg,Is there a person in the car in the back ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0989.jpg,How many dogs do you see in the picture ?,2,3,Numeric,gpt-4o,3
+image_0990.jpg,Do you see a dog in this picture ?,Yes,No,Yes/No,gpt-4o,No.
+image_0991.jpg,Do you see a tiger ?,Yes,No,Yes/No,gpt-4o,No
+image_0992.jpg,How many people can you see in the picture ?,4,5,Numeric,gpt-4o,5
+image_0993.jpg,Can you see the woman sitting on the chair in the centre of the image ?,Yes,No,Yes/No,gpt-4o,No.
+image_0994.jpg,Can you see a dog in this picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0995.jpg,Do you see a dog ?,Yes,No,Yes/No,gpt-4o,Yes.
+image_0996.jpg,Do you see a dog in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0997.jpg,Do you see a dog in the picture ?,No,Yes,Yes/No,gpt-4o,Yes.
+image_0998.jpg,Do you see a bird ?,Yes,No,Yes/No,gpt-4o,No
+image_0999.jpg,Do you see a vase ?,Yes,No,Yes/No,gpt-4o,No
