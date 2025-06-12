@@ -10,7 +10,12 @@ def get_model_name_list():
                     'swin-t',  'swin-s',                     
                     'instaboost_r50', 'instaboost_r101', 'instaboost_x101', 
                     'groie_r50', 'groie_r101',
-                    'gpt-4o', 'gpt-4o-mini', 'llama-3.2-11B'#, 'llama-3.2-90B'
+                    'gpt-4o', 'gpt-4o-mini', 'llama-3.2-11B', 'llama-3.2-90B',
+                    # TAI Rebuttal
+                    'o3','Qwen2.5-VL-7B-Instruct','Qwen2.5-VL-72B-Instruct',
+                    'Pixtral-12B','gemini-2.0-flash',#'gemini-2.5-flash',
+                    'sonnet-4', #"deepseek-vl2-tiny", 
+                    'deepseek-vl2'
                     ]
 
 
@@ -55,7 +60,14 @@ def get_model_display_details_by_name(mdl_name_list):
             ('gpt-4o', 'GPT-4o', 'GPT-4o'), 
             ('gpt-4o-mini', 'GPT-4o-mini', 'GPT-4o-mini'), 
             ('llama-3.2-11B', 'Llama-3.2-11B', 'Llama-3.2-11B'),   
-            ('llama-3.2-90B', 'Llama-3.2-90B', 'Llama-3.2-90B'),                       
+            ('llama-3.2-90B', 'Llama-3.2-90B', 'Llama-3.2-90B'),   
+            ('o3', 'o3', 'o3'), 
+            ('Qwen2.5-VL-7B-Instruct', 'Qwen2.5-VL-7B', 'Qwen2.5-VL-7B'),
+            ('Qwen2.5-VL-72B-Instruct', 'Qwen2.5-VL-72B', 'Qwen2.5-VL-72B'),
+            ('Pixtral-12B', 'Pixtral-12B', 'Pixtral-12B'),
+            ('gemini-2.0-flash', 'gemini-2.0-flash', 'gemini-2.0-flash'),
+            ('sonnet-4', 'sonnet-4', 'sonnet-4'), 
+            ('deepseek-vl2','deepseek-vl2','deepseek-vl2')                   
         ]
 
     model_names_master = [x[0] for x in model_details_all]

@@ -259,6 +259,10 @@ model_names_comparison = [ 'mask_rcnn_r50', 'mask_rcnn_r101', 'mask_rcnn_x101',
                         #'yolact_r50', 'yolact_r101', 
                         'swin-s',  'swin-t',
                         'gpt-4o', 'gpt-4o-mini', 'llama-3.2-11B', 'llama-3.2-90B',
+                        'o3','Qwen2.5-VL-7B-Instruct','Qwen2.5-VL-72B-Instruct',
+                        'Pixtral-12B','gemini-2.0-flash', 
+                        'sonnet-4', 
+                        'deepseek-vl2' 
                         ]
 
 model_names_comparison =  [x for x in model_names_comparison if x in model_names_all] 
