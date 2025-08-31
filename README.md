@@ -6,7 +6,7 @@ Paper link - https://arxiv.org/abs/2406.06967
 
 The dataset can be downloaded from the link below.
 
-[human-confusion-dataset.0.3.zip](https://github.com/kailasdayanandan/dual_thinking/releases/download/v0.0.3-dataset-release/human-confusion-dataset.0.3.zip)
+[human-confusion-dataset.0.4.zip](https://github.com/kailasdayanandan/dual_thinking/releases/download/v0.0.4-dataset-release/human-confusion-dataset.0.4.zip)
 
 **Code Setup** 
 
