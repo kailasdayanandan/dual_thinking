@@ -2,6 +2,10 @@
 
 ![Image Alt](https://github.com/kailasdayanandan/dual_thinking/blob/main/visuals/overview.png)
 
+![Image Alt](https://github.com/kailasdayanandan/dual_thinking/blob/main/visuals/model_outputs.png)
+
+![Image Alt](https://github.com/kailasdayanandan/dual_thinking/blob/main/visuals/comparison_prop_plot.png)
+
 Paper link - https://arxiv.org/abs/2406.06967
 
 **Human Confusion Dataset** 
