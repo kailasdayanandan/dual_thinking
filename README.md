@@ -6,6 +6,20 @@
 
 ![Image Alt](https://github.com/kailasdayanandan/dual_thinking/blob/main/visuals/comparison_prop_plot.png)
 
+**Citing Our Work** 
+
+To cite this project, please use the citation below:
+```
+@misc{dayanandan2024dual,
+    title={Dual Thinking and Logical Processing - Are Multi-modal Large Language Models Closing the Gap with Human Vision ?},
+    author={Kailas Dayanandan, Nikhil Kumar, Anand Sinha and Brejesh Lall},
+    year={2024},
+    eprint={2406.06967},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
+
 Paper link - https://arxiv.org/abs/2406.06967
 
 **Human Confusion Dataset** 
@@ -30,16 +44,3 @@ The script to reproduce results and figures in paper are shown in the below note
 
 [example_scripts/Results.ipynb](https://github.com/kailasdayanandan/dual_thinking/blob/main/example_scripts/Results.ipynb)
 
-**Citing Our Work** 
-
-To cite this project, please use the citation below:
-```
-@misc{dayanandan2024dual,
-    title={Dual Thinking and Logical Processing - Are Multi-modal Large Language Models Closing the Gap with Human Vision ?},
-    author={Kailas Dayanandan, Nikhil Kumar, Anand Sinha and Brejesh Lall},
-    year={2024},
-    eprint={2406.06967},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
-```
