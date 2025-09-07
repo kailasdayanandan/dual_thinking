@@ -1,5 +1,7 @@
 # Dual Thinking and Logical Processing - Are Multi-modal Large Language Models Closing the Gap with Human Vision ?
 
+![Image Alt](https://github.com/kailasdayanandan/dual_thinking/blob/main/visuals/overview.png)
+
 Paper link - https://arxiv.org/abs/2406.06967
 
 **Human Confusion Dataset** 
