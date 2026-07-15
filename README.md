@@ -10,13 +10,12 @@
 
 To cite this project, please use the citation below:
 ```
-@misc{dayanandan2024dual,
-    title={Dual Thinking and Logical Processing - Are Multi-modal Large Language Models Closing the Gap with Human Vision ?},
-    author={Kailas Dayanandan, Nikhil Kumar, Anand Sinha and Brejesh Lall},
-    year={2024},
-    eprint={2406.06967},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@article{dayanandan2025dual,
+  title={Dual Thinking and Logical Processing in Human Vision and Multi-modal Large Language Models},
+  author={Dayanandan, Kailas and Kumar, Nikhil and Sinha, Anand and Lall, Brejesh},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
